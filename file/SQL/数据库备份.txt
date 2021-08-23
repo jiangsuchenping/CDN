@@ -1,0 +1,22 @@
+declare @str varchar(100)
+select @str = 'e://HospitalDataBackUp//XL_eMedicine_hospital'+cast(DATEPART(year,GETDATE()) as varchar(10))+cast(DATEPART(MONTH,GETDATE()) as varchar(10))+
+cast(DATEPART(DAY,GETDATE()) as varchar(10))+'.bak'
+backup database XL_eMedicine_Hospital_DaLian to disk=@str
+
+
+
+exec sp_configure 'show advanced options', 1;     
+reconfigure;     
+exec sp_configure 'xp_cmdshell', 1;     
+reconfigure;   
+
+declare @path varchar(150)
+declare @date datetime
+select @date =DATEADD(month,-3, GETDATE())
+select @path = 'del e:\HospitalDataBackUp\XL_eMedicine_hospital'+cast(DATEPART(year,@date) as varchar(10))+cast(DATEPART(MONTH,@date) as varchar(10))+
+cast(DATEPART(DAY,@date) as varchar(10))+'.bak'
+print @path
+exec master.dbo.xp_cmdshell @path
+
+
+
