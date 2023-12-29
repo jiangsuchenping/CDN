@@ -18,6 +18,3 @@ cast(DATEPART(DAY,@date) as varchar(10))+'.bak'
 print @path
 exec master.dbo.xp_cmdshell @path
 
-
-
-
