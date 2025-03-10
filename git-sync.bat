@@ -4,7 +4,7 @@
 rem 定义项目路径，需替换为实际项目路径
 set PROJECT_PATH=%~dp0
 rem 定义远程仓库分支，一般为 master 或 main，按需修改
-set REMOTE_BRANCH=main
+set REMOTE_BRANCH=master
 
 rem 进入项目目录
 cd /d %PROJECT_PATH%
