@@ -2,6 +2,13 @@ https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/cdn.txt
 
 https://unpkg.com/@jiangsuchenping/cdn@latest/file/cdn.txt
 
+
+
+https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/clash-rules/proxy.txt
+
+https://unpkg.com/@jiangsuchenping/cdn@latest/clash-rules/proxy.txt
+
+
 chenping@live.cn
 ping.chen@shinsoft.net
 chenping@tom.com
