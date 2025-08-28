@@ -1,4 +1,6 @@
 payload:
+  - '+.sina.com.cn'
+  - 'api.trae.com.cn'
   - 'mcs.zijieapi.com'
   - 'mon.zijieapi.com'
   - '+.zijieapi.com'
