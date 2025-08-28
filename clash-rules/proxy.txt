@@ -1,4 +1,6 @@
 payload:
+  - 'mcs.zijieapi.com'
+  - 'mon.zijieapi.com'
   - '+.zijieapi.com'
   - '1password.drift.click'
   - '3dns-1.adobe.com'
