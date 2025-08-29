@@ -1,9 +1,4 @@
-payload:
-  - 'shinsoft.net'
-  - 'api.trae.com.cn'
-  - 'pc-mcs.zijieapi.com'
-  - 'pc-mon.zijieapi.com'
-  - '+.zijieapi.com'
+payload: 
   - '1password.drift.click'
   - '3dns-1.adobe.com'
   - '3dns-2.adobe.com'
