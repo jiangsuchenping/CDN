@@ -1,3 +1,2 @@
 payload: 
-  - '1password.drift.click'
-  - 'mon.zijieapi.com'
+  - '+.zijieapi.com'
