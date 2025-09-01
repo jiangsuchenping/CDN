@@ -1,2 +1,3 @@
 payload: 
   - '+.zijieapi.com'
+  - '+.byteoversea.com'
