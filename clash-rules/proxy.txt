@@ -1,2 +1,2 @@
 payload: 
-  - '+.byteoversea.com'
+  - '*.byteoversea.com'
