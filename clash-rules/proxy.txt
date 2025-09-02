@@ -6,3 +6,4 @@ payload:
   - '+.mchost.guru'
   - '+.trae.ai'
   - '+.onedrive.com'
+  - '+.github.io'
