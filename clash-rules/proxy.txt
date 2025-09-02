@@ -3,3 +3,4 @@ payload:
   - '+.byteoversea.com'
   - '+.byteintlapi.com'
   - '+.mchost.guru'
+  - '+.trae.ai'
