@@ -4,4 +4,3 @@ payload:
   - '+.bytednsdoc.com'
   - '+.zijieapi.com'
   - '+.linux.do'
-  - 'trae-api+'
