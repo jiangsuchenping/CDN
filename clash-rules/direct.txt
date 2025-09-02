@@ -1,6 +1,7 @@
 payload:
   - '*.byteoversea.com'
   - '*.byteintlapi.com'
+  - '*.trae.ai'
   - '*.linux.do'
   - '*.zijieapi.com'
   - '*.microsoft.com'
