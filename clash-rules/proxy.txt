@@ -1,4 +1,5 @@
 payload: 
   - '+.byteoversea.com'
+  - '+.byteintlapi.com'
   - '+.zijieapi.com'
   - '+.linux.do'
