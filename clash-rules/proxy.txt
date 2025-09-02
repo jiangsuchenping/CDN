@@ -4,3 +4,4 @@ payload:
   - '+.byteintlapi.com'
   - '+.mchost.guru'
   - '+.trae.ai'
+  - '+.onedrive.com'
