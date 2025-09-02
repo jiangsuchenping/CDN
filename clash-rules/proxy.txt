@@ -1,5 +1,4 @@
 payload: 
   - '+.zijieapi.com'
   - '+.byteoversea.com'
-  - '+.mchost.guru'
   - '+.bytedance.com'
