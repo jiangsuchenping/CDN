@@ -4,5 +4,5 @@ payload:
   - '*.trae.ai'
   - '*.linux.do'
   - '*.zijieapi.com'
-  - '*.microsoft.com'
+  - '+.microsoft.com'
   
