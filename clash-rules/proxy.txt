@@ -4,4 +4,4 @@ payload:
   - '+.bytednsdoc.com'
   - '+.zijieapi.com'
   - '+.linux.do'
-  - '+.mchost.guru'
+  - '*.mchost.guru'
