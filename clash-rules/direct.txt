@@ -1,4 +1,4 @@
 payload:
   - '+.linux.do'
-  - 'trae-api-cn.mchost.com'
+  - 'trae-api-cn.mchost.guru'
   
