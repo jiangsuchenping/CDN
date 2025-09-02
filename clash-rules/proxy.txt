@@ -1,9 +1,1 @@
 payload: 
-  - '+.zijieapi.com'
-  - '+.byteoversea.com'
-  - '+.byteintlapi.com'
-  - '+.bytednsdoc.com'
-  - '+.mchost.guru'
-  - '+.trae.ai'
-  - '+.onedrive.com'
-  - '+.github.io'
