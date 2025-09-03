@@ -1,4 +1,2 @@
 payload:
-  - '+.events.data.msn.cn'
-  - '+.events.data.msn.com'
-  - '+.events.data.microsoft.com'
+
