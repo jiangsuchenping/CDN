@@ -1,2 +1,4 @@
 payload:
+  - 'browser.events.data.msn.cn'
+  - 'browser.events.data.msn.com'
  
