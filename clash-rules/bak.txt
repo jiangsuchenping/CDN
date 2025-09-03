@@ -5,3 +5,6 @@
 - '+.linux.do'
 - '*.mchost.guru'
 - '+.githubusercontent.com'
+  - '+.events.data.msn.cn'
+  - '+.events.data.msn.com'
+  - '+.events.data.microsoft.com'
