@@ -1,7 +1,2 @@
 payload: 
-  - '+.byteoversea.com'
-  - '+.byteintlapi.com'
-  - '+.bytednsdoc.com'
-  - '+.zijieapi.com'
-  - '+.linux.do'
-  - '*.mchost.guru'
+
