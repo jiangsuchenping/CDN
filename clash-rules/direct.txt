@@ -2,6 +2,8 @@ payload:
   - '+.sharepoint.com'
   - '+.microsoft.com'
   - ‘+.windows.net’
+  - '+.skype.com'
+  - '+.office365.com'
   - '+.byteintlapi.com'
   - '+.byteoversea.com'
   - '+.bytednsdoc.com'
