@@ -1,3 +1,5 @@
 payload:
   - PROCESS-NAME,OneDrive
-  - PROCESS-NAME,OneDrive.exe
+  - PROCESS-NAME,OneDrive.exe  
+  - PROCESS-NAME,msedge
+  - PROCESS-NAME,msedge.exe
