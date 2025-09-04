@@ -1,3 +1,4 @@
 payload:
   - '*.sharepoint.com'
   - '*.microsoft.com'
+  - '*.byteintlapi.com'
