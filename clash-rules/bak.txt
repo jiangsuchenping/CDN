@@ -10,8 +10,22 @@
   - '+.events.data.microsoft.com'
 
 
+  - PROCESS-NAME,OneDrive
+  - PROCESS-NAME,OneDrive.exe  
 
 
+  - '*.sharepoint.com'
+  - '*.microsoft.com'
+  - ‘*.windows.net’
+  - '*.skype.com'
+  - '*.office365.com'
+  - '*.office.com'
+  - '*.msn.com'
+  - '*.msn.net'
+  - '*.byteintlapi.com'
+  - '*.byteoversea.com'
+  - '*.bytednsdoc.com'
+  - '*.adblockplus.org'
 
 
 lancidr.txt 备份
