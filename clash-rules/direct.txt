@@ -1,7 +1,7 @@
 payload:
-  - '*.sharepoint.com'
-  - '*.microsoft.com'
-  - ‘*.windows.net’
-  - '*.byteintlapi.com'
-  - '*.byteoversea.com'
-  - '*.bytednsdoc.com'
+  - '+.sharepoint.com'
+  - '+.microsoft.com'
+  - ‘+.windows.net’
+  - '+.byteintlapi.com'
+  - '+.byteoversea.com'
+  - '+.bytednsdoc.com'
