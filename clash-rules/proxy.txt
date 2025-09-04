@@ -1,2 +1,5 @@
 payload: 
+  - '*.byteintlapi.com'
   - '*.byteoversea.com'
+  - '*.bytednsdoc.com'
+  - '*.adblockplus.org'
