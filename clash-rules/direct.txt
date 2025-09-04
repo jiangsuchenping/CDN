@@ -9,3 +9,4 @@ payload:
   - '+.byteoversea.com'
   - '+.bytednsdoc.com'
   - '+.jsdelivr.net'
+  - '+.adblockplus.org'
