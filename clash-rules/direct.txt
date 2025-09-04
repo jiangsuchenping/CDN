@@ -1,6 +1,7 @@
 payload:
   - 'aks-prod-japaneast.access-point.cloudmessaging.edge.microsoft.com'
   - 'mobile.events.data.microsoft.com'
+  - 'onedriveclucprodbn20045.blob.core.windows.net'
   - '+.sharepoint.com'
   - '+.microsoft.com'
   - ‘+.windows.net’
