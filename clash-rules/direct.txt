@@ -6,5 +6,8 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,com.cn
-  - DOMAIN-SUFFIX,gov,cn
+  - DOMAIN-SUFFIX,gov.cn
+  - DOMAIN-SUFFIX,edu.cn
+  - DOMAIN-SUFFIX,org.cn
+  - DOMAIN-SUFFIX,net.cn
   - DOMAIN-SUFFIX,cn
