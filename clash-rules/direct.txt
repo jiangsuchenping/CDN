@@ -16,4 +16,4 @@ payload:
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,trafficmanager.net
   - DOMAIN-SUFFIX,byteoversea.com
-  - DOMAIN-SUFFIX,adblockplus.org
+
