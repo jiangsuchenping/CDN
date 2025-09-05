@@ -16,3 +16,4 @@ payload:
   - '+.mchost.guru'
   - '+.shinsoft.net'
   - '+.vsassets.io'
+  - '+.segment.io'
