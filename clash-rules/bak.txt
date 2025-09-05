@@ -21,7 +21,7 @@
   - '*.byteoversea.com'
   - '*.bytednsdoc.com'
   - '*.adblockplus.org'
-  
+
 
   - PROCESS-NAME,OneDrive
   - PROCESS-NAME,OneDrive.exe  
@@ -42,8 +42,13 @@
 
 
 
-
-
+clash通用规则
+rules:
+  - GEOIP,cn,DIRECT
+  - GEOSITE,cn,DIRECT
+  - GEOIP,!cn,AllProxies
+  - GEOSITE,!cn,AllProxies
+  - MATCH,AllProxies
 
 
 
