@@ -1,7 +1,9 @@
 payload:
   - GEOIP,cn
-  - GEOSITE,cn
+  - GEOSITE,cn  
   - PROCESS-NAME,OneDrive
   - PROCESS-NAME,OneDrive.exe  
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,com.cn
+  - DOMAIN-SUFFIX,cn
