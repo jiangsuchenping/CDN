@@ -18,3 +18,7 @@ payload:
   - '+.vsassets.io'
   - '+.segment.io'
   - '+.adblockplus.org'
+  - '+.vscode-cdn.net'
+  - '+.exp-tas.com'
+  - '+.trafficmanager.net'
+  - '+.adtidy.org'
