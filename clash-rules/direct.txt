@@ -1,7 +1,5 @@
 
   payload:
-    - GEOIP,cn
-    - GEOSITE,cn
     - GEOSITE,microsoft  
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe  
