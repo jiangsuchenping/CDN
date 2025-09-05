@@ -5,3 +5,4 @@
     - PROCESS-NAME,OneDrive.exe  
     - DOMAIN-SUFFIX,adblockplus.org
     - DOMAIN-SUFFIX,byteoversea.com
+    - DOMAIN-SUFFIX,zijieapi.com
