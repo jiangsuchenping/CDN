@@ -1,5 +1,8 @@
 
   payload:
+  - GEOIP,cn
+  - GEOSITE,cn
+  - GEOSITE,microsoft
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,adblockplus.org
@@ -88,8 +91,7 @@
   - DOMAIN-SUFFIX,wunderlist.com
   - DOMAIN-SUFFIX,yammer.com
   - DOMAIN-SUFFIX,yammerusercontent.com
-  - GEOIP,cn
-  - GEOSITE,cn
+
   - PROCESS-NAME,OneDrive
   - PROCESS-NAME,OneDrive.exe  
 
