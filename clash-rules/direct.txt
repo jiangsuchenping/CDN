@@ -1,6 +1,7 @@
 payload:
   - PROCESS-NAME,OneDrive
   - PROCESS-NAME,OneDrive.exe  
+  - DOMAIN-SUFFIX,augmentcode.com
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,office365.com
