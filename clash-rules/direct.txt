@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,vscode-cdn.net
+  - DOMAIN-SUFFIX,trafficmanager.net
