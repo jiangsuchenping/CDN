@@ -1,13 +1,4 @@
-payload:
-  - PROCESS-NAME,OneDrive
-  - PROCESS-NAME,OneDrive.exe  
-  - DOMAIN-SUFFIX,augmentcode.com
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,office365.com
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,visualstudio.com
-  - DOMAIN-SUFFIX,msedge.net
+
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,aadrm.com
@@ -17,19 +8,31 @@ payload:
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,aspnetcdn.com
   - DOMAIN-SUFFIX,assets-yammer.com
+  - DOMAIN-SUFFIX,augmentcode.com
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,azure.net
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,azurerms.com
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,bytednsdoc.com
+  - DOMAIN-SUFFIX,byteintlapi.com
+  - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,cloudapp.net
   - DOMAIN-SUFFIX,cloudappsecurity.com
+  - DOMAIN-SUFFIX,cn
+  - DOMAIN-SUFFIX,com.cn
   - DOMAIN-SUFFIX,edgesuite.net
+  - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,gfx.ms
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gov.cn
   - DOMAIN-SUFFIX,hotmail.com
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,lync.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,mil.cn
   - DOMAIN-SUFFIX,msappproxy.net
   - DOMAIN-SUFFIX,msauth.net
   - DOMAIN-SUFFIX,msauthimages.net
@@ -44,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,msocdn.com
   - DOMAIN-SUFFIX,msocsp.com
   - DOMAIN-SUFFIX,mstea.ms
+  - DOMAIN-SUFFIX,net.cn
   - DOMAIN-SUFFIX,o365weve.com
   - DOMAIN-SUFFIX,oaspapps.com
   - DOMAIN-SUFFIX,office.com
@@ -55,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,onenote.net
   - DOMAIN-SUFFIX,onestore.ms
+  - DOMAIN-SUFFIX,org.cn
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,outlookmobile.com
   - DOMAIN-SUFFIX,phonefactor.net
@@ -72,6 +77,7 @@ payload:
   - DOMAIN-SUFFIX,uservoice.com
   - DOMAIN-SUFFIX,virtualearth.net
   - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,windows-ppe.net
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,windows.net
@@ -80,20 +86,8 @@ payload:
   - DOMAIN-SUFFIX,wunderlist.com
   - DOMAIN-SUFFIX,yammer.com
   - DOMAIN-SUFFIX,yammerusercontent.com
-  - DOMAIN-SUFFIX,bingapis.com
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,vscode-cdn.net
-  - DOMAIN-SUFFIX,trafficmanager.net
-  - DOMAIN-SUFFIX,byteoversea.com
-  - DOMAIN-SUFFIX,byteintlapi.com
-  - DOMAIN-SUFFIX,bytednsdoc.com
-  - DOMAIN-SUFFIX,com.cn
-  - DOMAIN-SUFFIX,gov.cn
-  - DOMAIN-SUFFIX,edu.cn
-  - DOMAIN-SUFFIX,org.cn
-  - DOMAIN-SUFFIX,net.cn
-  - DOMAIN-SUFFIX,mil.cn
-  - DOMAIN-SUFFIX,cn
   - GEOIP,cn
   - GEOSITE,cn
-
+  - PROCESS-NAME,OneDrive
+  - PROCESS-NAME,OneDrive.exe  
+payload:
