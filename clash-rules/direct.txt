@@ -3,6 +3,12 @@ payload:
   - PROCESS-NAME,OneDrive.exe  
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,vscode-cdn.net
+  - DOMAIN-SUFFIX,trafficmanager.net
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,byteintlapi.com
+  - DOMAIN-SUFFIX,bytednsdoc.com
   - DOMAIN-SUFFIX,com.cn
   - DOMAIN-SUFFIX,gov.cn
   - DOMAIN-SUFFIX,edu.cn
@@ -10,12 +16,6 @@ payload:
   - DOMAIN-SUFFIX,net.cn
   - DOMAIN-SUFFIX,mil.cn
   - DOMAIN-SUFFIX,cn
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,vscode-cdn.net
-  - DOMAIN-SUFFIX,trafficmanager.net
-  - DOMAIN-SUFFIX,byteoversea.com
-  - DOMAIN-SUFFIX,byteintlapi.com
-  - DOMAIN-SUFFIX,bytednsdoc.com
   - GEOIP,cn
   - GEOSITE,cn  
 
