@@ -17,3 +17,4 @@ payload:
   - '+.shinsoft.net'
   - '+.vsassets.io'
   - '+.segment.io'
+  - '+.adblockplus.org'
