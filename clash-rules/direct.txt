@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,org.cn
   - DOMAIN-SUFFIX,net.cn
+  - DOMAIN-SUFFIX,mil.cn
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,vscode-cdn.net
