@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,trafficmanager.net
