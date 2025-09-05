@@ -3,6 +3,8 @@ payload:
   - '+.sharepoint.net'
   - '+.microsoft.com'
   - '+.microsoft.net'
+  - '+.office365.com'
+  - '+.office.com'
   - '+.msn.com'
   - '+.msn.net'
   - '+.skype.com'
