@@ -16,4 +16,7 @@ payload:
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,trafficmanager.net
   - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,byteintlapi.com
+  - DOMAIN-SUFFIX,bytednsdoc.com
+  
 
