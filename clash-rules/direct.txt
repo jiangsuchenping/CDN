@@ -3,6 +3,8 @@ payload:
   - PROCESS-NAME,OneDrive.exe  
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,trafficmanager.net
