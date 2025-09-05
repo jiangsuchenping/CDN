@@ -2,6 +2,7 @@
   payload:
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-SUFFIX,adblockplus.org
   - DOMAIN-SUFFIX,aadrm.com
   - DOMAIN-SUFFIX,acompli.com
   - DOMAIN-SUFFIX,acompli.net
