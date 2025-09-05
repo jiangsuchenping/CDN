@@ -6,3 +6,4 @@
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe  
     - DOMAIN-SUFFIX,adblockplus.org
+    - DOMAIN-SUFFIX,byteoversea.com
