@@ -1,5 +1,7 @@
 payload: 
-  - '*.byteintlapi.com'
-  - '*.byteoversea.com'
-  - '*.bytednsdoc.com'
-  - '*.adblockplus.org'
+  - '+.byteintlapi.com'
+  - '+.byteoversea.com'
+  - '+.bytednsdoc.com'
+  - '+.zijieapi.com'
+  - '+.adblockplus.org'
+  - '+.mchost.guru'
