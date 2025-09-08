@@ -8,3 +8,19 @@ payload:
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,github.com
+  - PROCESS-NAME,OneDrive
+  - PROCESS-NAME,OneDrive.exe  
+  - DOMAIN-SUFFIX,adblockplus.org
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,live.com
