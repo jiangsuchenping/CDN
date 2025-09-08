@@ -19,3 +19,13 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,kubernetes.io
   - DOMAIN-SUFFIX,elastic.co
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,stackoverflow.com
+  - DOMAIN-SUFFIX,codeproject.com
+  - DOMAIN-SUFFIX,freshmeat.net
+  - DOMAIN-SUFFIX,tutorialspoint.com
+  - DOMAIN-SUFFIX,w3schools.com
+  - DOMAIN-SUFFIX,mdn.mozilla.org
+  - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,ibm.com
