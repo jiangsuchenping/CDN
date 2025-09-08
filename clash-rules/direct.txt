@@ -17,3 +17,4 @@
     - DOMAIN-SUFFIX,live.com
     - GEOIP,cn
     - GEOSITE,cn
+    - GEOSITE,microsoft
