@@ -8,3 +8,14 @@ payload:
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,stackoverflow.com
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,bitbucket.org
+  - DOMAIN-SUFFIX,sourceforge.net
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,nginx.org
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,kubernetes.io
+  - DOMAIN-SUFFIX,elastic.co
