@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,stackoverflow.com
   - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,copilot.microsoft.com
