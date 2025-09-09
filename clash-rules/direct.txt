@@ -17,5 +17,6 @@
     - DOMAIN-SUFFIX,outlook.com
     - DOMAIN-SUFFIX,hotmail.com
     - DOMAIN-SUFFIX,live.com
+    - GEOSITE,microsoft
     - GEOIP,cn
     - GEOSITE,cn
