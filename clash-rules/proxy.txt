@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,stackoverflow.com
+  - DOMAIN-SUFFIX,jsdelivr.net
