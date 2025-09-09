@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,stackoverflow.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,sentry.io

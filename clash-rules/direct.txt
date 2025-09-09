@@ -2,5 +2,6 @@
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe  
     - DOMAIN-SUFFIX,byteoversea.com 
+    - GEOSITE,microsoft
     - GEOIP,cn
     - GEOSITE,cn
