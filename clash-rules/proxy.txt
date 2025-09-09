@@ -8,4 +8,4 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,facebook.com
-  - DOMAIN-SUFFIX,overstackflow.com
+  - DOMAIN-SUFFIX,stackoverflow.com
