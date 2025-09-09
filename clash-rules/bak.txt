@@ -23,6 +23,15 @@
   - '*.adblockplus.org'
 
 
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-KEYWORD,steam
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,gmail.com
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+
+
   - PROCESS-NAME,OneDrive
   - PROCESS-NAME,OneDrive.exe  
 
