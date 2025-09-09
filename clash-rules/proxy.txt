@@ -11,7 +11,3 @@ payload:
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,stackoverflow.com
   - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,copilot.microsoft.com
-  - DOMAIN-SUFFIX,byteoversea.com
-  - DOMAIN-SUFFIX,bytednsdoc.com
-  - DOMAIN-SUFFIX,byteintlapi.com
