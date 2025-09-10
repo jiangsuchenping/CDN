@@ -4,6 +4,5 @@
     - DOMAIN-SUFFIX,byteoversea.com 
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,bytednsdoc.com
-    - GEOSITE,microsoft
     - GEOIP,cn
     - GEOSITE,cn
