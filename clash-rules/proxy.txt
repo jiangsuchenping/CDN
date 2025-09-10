@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,trae.ai
+  - DOMAIN-SUFFIX,npmjs.com
