@@ -19,3 +19,6 @@ payload:
   - DOMAIN-SUFFIX,nuget.net
   - DOMAIN-SUFFIX,nuget.com
   - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,byteoversea.com 
+  - DOMAIN-SUFFIX,byteintlapi.com
+  - DOMAIN-SUFFIX,bytednsdoc.com
