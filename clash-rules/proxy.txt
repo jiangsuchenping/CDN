@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,nuget.net
   - DOMAIN-SUFFIX,nuget.com
   - DOMAIN-SUFFIX,tiktok.com
+  - PROCESS-NAME,Trae
