@@ -1,9 +1,9 @@
   payload:
-    - PROCESS-NAME,OneDrive1
-    - PROCESS-NAME,OneDrive1.exe  
+    - PROCESS-NAME,OneDrive
+    - PROCESS-NAME,OneDrive.exe  
     - DOMAIN-SUFFIX,byteoversea.com 
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,bytednsdoc.com
-    - GEOSITE,microsoft1
+    - GEOSITE,microsoft
     - GEOIP,cn
     - GEOSITE,cn
