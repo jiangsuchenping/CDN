@@ -1,12 +1,9 @@
   payload:
-# OneDrive 进程
-#    - PROCESS-NAME,OneDrive
-#    - PROCESS-NAME,OneDrive.exe  
-# 字节跳动海外相关域名
-#    - DOMAIN-SUFFIX,byteoversea.com 
-#    - DOMAIN-SUFFIX,byteintlapi.com
-#    - DOMAIN-SUFFIX,bytednsdoc.com
-# 微软服务、中国大陆 IP 与域名
-#    - GEOSITE,microsoft
-#    - GEOIP,cn
-#    - GEOSITE,cn
+    - PROCESS-NAME,OneDrive
+    - PROCESS-NAME,OneDrive.exe  
+    - DOMAIN-SUFFIX,byteoversea.com 
+    - DOMAIN-SUFFIX,byteintlapi.com
+    - DOMAIN-SUFFIX,bytednsdoc.com
+    - GEOSITE,microsoft
+    - GEOIP,cn
+    - GEOSITE,cn
