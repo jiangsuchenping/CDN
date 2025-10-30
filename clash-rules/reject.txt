@@ -1,3 +1,8 @@
 payload:
-    - DOMAIN-KEYWORD,sex
     - DOMAIN-SUFFIX,activity.windows.com
+    - PROCESS,RedGate.Client.Service.exe
+    - PROCESS,RedGate.SqlPrompt.SqlHistory.Server.exe
+    - PROCESS,RedGate
+    - PROCESS,SqlPrompt
+    - DOMAIN-SUFFIX,red-gate.com
+    - DOMAIN-SUFFIX,featureusage.com
