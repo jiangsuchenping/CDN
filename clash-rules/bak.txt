@@ -85,3 +85,18 @@ lancidr.txt 备份
   - 'fc00::/7'
   - 'fe80::/10'
   - 'ff00::/8'
+
+
+
+
+
+DIRECT.txt
+    payload:
+    - PROCESS-NAME,OneDrive
+    - PROCESS-NAME,OneDrive.exe  
+    - DOMAIN-SUFFIX,byteoversea.com 
+    - DOMAIN-SUFFIX,byteintlapi.com
+    - DOMAIN-SUFFIX,bytednsdoc.com
+    - GEOSITE,microsoft
+    - GEOIP,cn
+    - GEOSITE,cn
