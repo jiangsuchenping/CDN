@@ -1,0 +1,659 @@
+﻿{
+    "FileCount":  105,
+    "Version":  "2026.112.1607",
+    "Files":  [
+                  {
+                      "Path":  "cef.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/cef.pak",
+                      "MD5":  "183E9FCAFE04E542752AD91CFD57A401",
+                      "Size":  1942738
+                  },
+                  {
+                      "Path":  "CefSharp.BrowserSubprocess.Core.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/CefSharp.BrowserSubprocess.Core.dll",
+                      "MD5":  "4FF77DF8B1EFB5AF1E8B04F070FA1DB5",
+                      "Size":  1278976
+                  },
+                  {
+                      "Path":  "CefSharp.BrowserSubprocess.exe",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/CefSharp.BrowserSubprocess.exe",
+                      "MD5":  "DDD5DFDE7B95E293B111434DC09973BC",
+                      "Size":  6656
+                  },
+                  {
+                      "Path":  "CefSharp.Core.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/CefSharp.Core.dll",
+                      "MD5":  "F8B1CF76364FA42D6C21A990EAC8DAF3",
+                      "Size":  1957888
+                  },
+                  {
+                      "Path":  "CefSharp.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/CefSharp.dll",
+                      "MD5":  "A27B945FBBBDB6E07762B0CCEDDDBC63",
+                      "Size":  1013760
+                  },
+                  {
+                      "Path":  "CefSharp.WinForms.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/CefSharp.WinForms.dll",
+                      "MD5":  "5FA38DFE2A3087D4D21BE61C150104D6",
+                      "Size":  31744
+                  },
+                  {
+                      "Path":  "cef_100_percent.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/cef_100_percent.pak",
+                      "MD5":  "376923CAB87B22454DB71E6CCC058DAB",
+                      "Size":  204977
+                  },
+                  {
+                      "Path":  "cef_200_percent.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/cef_200_percent.pak",
+                      "MD5":  "79E2BACC5013B22B3E333CB66A09F1EA",
+                      "Size":  280979
+                  },
+                  {
+                      "Path":  "cef_extensions.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/cef_extensions.pak",
+                      "MD5":  "589A7CC4F150815070595592DC969D54",
+                      "Size":  1308341
+                  },
+                  {
+                      "Path":  "chrome_elf.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/chrome_elf.dll",
+                      "MD5":  "8E000FA68481A15BFFEDC81C59C71DB6",
+                      "Size":  1010176
+                  },
+                  {
+                      "Path":  "CpuMathNative.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/CpuMathNative.dll",
+                      "MD5":  "0F04D18F127E3B0DA724AB1879392DCA",
+                      "Size":  42112
+                  },
+                  {
+                      "Path":  "d3dcompiler_47.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/d3dcompiler_47.dll",
+                      "MD5":  "222D020BD33C90170A8296ADC1B7036A",
+                      "Size":  4346120
+                  },
+                  {
+                      "Path":  "devtools_resources.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/devtools_resources.pak",
+                      "MD5":  "57632A7F7002187DF05E39B5F78D228A",
+                      "Size":  1740490
+                  },
+                  {
+                      "Path":  "HtmlAgilityPack.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/HtmlAgilityPack.dll",
+                      "MD5":  "7939C27033A7C0E80022A788C537275D",
+                      "Size":  169472
+                  },
+                  {
+                      "Path":  "icudtl.dat",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/icudtl.dat",
+                      "MD5":  "9732E28C054DB1E042CD306A7BC9227A",
+                      "Size":  10518160
+                  },
+                  {
+                      "Path":  "JiebaNet.Segmenter.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/JiebaNet.Segmenter.dll",
+                      "MD5":  "9C6870549E585ED80BC99DAF01F5BCDE",
+                      "Size":  10995200
+                  },
+                  {
+                      "Path":  "LdaNative.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/LdaNative.dll",
+                      "MD5":  "6320457631F05AF7FC500DE73F29CF80",
+                      "Size":  164992
+                  },
+                  {
+                      "Path":  "libcef.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/libcef.dll",
+                      "MD5":  "5CA41C65593FCCCB888033E919CC07E8",
+                      "Size":  137093632
+                  },
+                  {
+                      "Path":  "libEGL.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/libEGL.dll",
+                      "MD5":  "1E87BD2B69C6DC8AD9A1ADD59AF11B63",
+                      "Size":  396800
+                  },
+                  {
+                      "Path":  "libGLESv2.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/libGLESv2.dll",
+                      "MD5":  "1DD1DC90D91E38DB7C560FC510240077",
+                      "Size":  6338560
+                  },
+                  {
+                      "Path":  "LiteDB.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/LiteDB.dll",
+                      "MD5":  "4092CEEB0BE21F4A8BD87DAA2188BF09",
+                      "Size":  487424
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.FileProviders.Abstractions.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Microsoft.Extensions.FileProviders.Abstractions.dll",
+                      "MD5":  "60C04F79259CC1A589B4ADEC35E51104",
+                      "Size":  17416
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.FileProviders.Embedded.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Microsoft.Extensions.FileProviders.Embedded.dll",
+                      "MD5":  "1849DE7F1022AD42E784D3519CB7D5CC",
+                      "Size":  18952
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Primitives.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Microsoft.Extensions.Primitives.dll",
+                      "MD5":  "B5C71BED0A0CC2DB2AA02445A4AFA774",
+                      "Size":  33288
+                  },
+                  {
+                      "Path":  "Microsoft.ML.Core.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Microsoft.ML.Core.dll",
+                      "MD5":  "995389F4E7555045EADA529A889F5E88",
+                      "Size":  416384
+                  },
+                  {
+                      "Path":  "Microsoft.ML.CpuMath.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Microsoft.ML.CpuMath.dll",
+                      "MD5":  "E807A846B70F0789E2DA85CD7FF47F52",
+                      "Size":  62592
+                  },
+                  {
+                      "Path":  "Microsoft.ML.Data.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Microsoft.ML.Data.dll",
+                      "MD5":  "EC344E594233ED028AB01E68986FB3F4",
+                      "Size":  1563776
+                  },
+                  {
+                      "Path":  "Microsoft.ML.DataView.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Microsoft.ML.DataView.dll",
+                      "MD5":  "EDDD36E9D83AE573F2DB05E15E5E1043",
+                      "Size":  48256
+                  },
+                  {
+                      "Path":  "Microsoft.ML.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Microsoft.ML.dll",
+                      "MD5":  "5E1CB8DFFF071C37C46E20DB51D5D134",
+                      "Size":  14976
+                  },
+                  {
+                      "Path":  "Microsoft.ML.KMeansClustering.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Microsoft.ML.KMeansClustering.dll",
+                      "MD5":  "07BD2DA50975E24FCC8F2E74D06F7153",
+                      "Size":  56448
+                  },
+                  {
+                      "Path":  "Microsoft.ML.PCA.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Microsoft.ML.PCA.dll",
+                      "MD5":  "4596AF87B00842B037C8859BC9393026",
+                      "Size":  53376
+                  },
+                  {
+                      "Path":  "Microsoft.ML.StandardTrainers.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Microsoft.ML.StandardTrainers.dll",
+                      "MD5":  "4A77F3CAEDB89447E0FF8BF99E19CEA7",
+                      "Size":  324736
+                  },
+                  {
+                      "Path":  "Microsoft.ML.Transforms.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Microsoft.ML.Transforms.dll",
+                      "MD5":  "03A2B0BBA4986D1FE9FEEB938F7B63EC",
+                      "Size":  772736
+                  },
+                  {
+                      "Path":  "Newtonsoft.Json.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Newtonsoft.Json.dll",
+                      "MD5":  "081D9558BBB7ADCE142DA153B2D5577A",
+                      "Size":  701992
+                  },
+                  {
+                      "Path":  "README.txt",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/README.txt",
+                      "MD5":  "C12917A67FDB5045B5C0B27EA25D1F63",
+                      "Size":  5849
+                  },
+                  {
+                      "Path":  "Serilog.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Serilog.dll",
+                      "MD5":  "35B1B9F1538CBDAB039F4A79826041FE",
+                      "Size":  136704
+                  },
+                  {
+                      "Path":  "Serilog.Sinks.Console.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Serilog.Sinks.Console.dll",
+                      "MD5":  "A43DBE6F78CBB5C009170394713E3353",
+                      "Size":  37376
+                  },
+                  {
+                      "Path":  "Serilog.Sinks.Debug.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Serilog.Sinks.Debug.dll",
+                      "MD5":  "5045AD6B483A338228EAF27597B3F968",
+                      "Size":  7168
+                  },
+                  {
+                      "Path":  "Serilog.Sinks.File.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/Serilog.Sinks.File.dll",
+                      "MD5":  "C25357A7950DCFC7F85EE9D593CB1A24",
+                      "Size":  33280
+                  },
+                  {
+                      "Path":  "SmartReader.exe",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/SmartReader.exe",
+                      "MD5":  "0DA81C5A7EA4A478875D20FF2F1AAE2E",
+                      "Size":  232448
+                  },
+                  {
+                      "Path":  "snapshot_blob.bin",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/snapshot_blob.bin",
+                      "MD5":  "E3A26C5DAFAAA7925861B0CA4CBCBF51",
+                      "Size":  51324
+                  },
+                  {
+                      "Path":  "System.Buffers.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/System.Buffers.dll",
+                      "MD5":  "B66C85EFA4D6F8C698476735C1FF4ECC",
+                      "Size":  27992
+                  },
+                  {
+                      "Path":  "System.CodeDom.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/System.CodeDom.dll",
+                      "MD5":  "8DA55DEDE702470C66CD3E2BFF562192",
+                      "Size":  33936
+                  },
+                  {
+                      "Path":  "System.Collections.Immutable.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/System.Collections.Immutable.dll",
+                      "MD5":  "D8203AEDAABEAC1E606CD0E2AF397D01",
+                      "Size":  302216
+                  },
+                  {
+                      "Path":  "System.Memory.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/System.Memory.dll",
+                      "MD5":  "592A822D0136B14F8D661891FF17C33B",
+                      "Size":  148760
+                  },
+                  {
+                      "Path":  "System.Numerics.Vectors.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/System.Numerics.Vectors.dll",
+                      "MD5":  "482D88247171630099D81400DC0A1AA7",
+                      "Size":  115936
+                  },
+                  {
+                      "Path":  "System.Runtime.CompilerServices.Unsafe.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/System.Runtime.CompilerServices.Unsafe.dll",
+                      "MD5":  "DA04A75DDC22118ED24E0B53E474805A",
+                      "Size":  16768
+                  },
+                  {
+                      "Path":  "System.Threading.Channels.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/System.Threading.Channels.dll",
+                      "MD5":  "523C15D2368A36583C90119FD9F52FE7",
+                      "Size":  45952
+                  },
+                  {
+                      "Path":  "System.Threading.Tasks.Extensions.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/System.Threading.Tasks.Extensions.dll",
+                      "MD5":  "E1E9D7D46E5CD9525C5927DC98D9ECC7",
+                      "Size":  25984
+                  },
+                  {
+                      "Path":  "v8_context_snapshot.bin",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/v8_context_snapshot.bin",
+                      "MD5":  "69B98600596C608373BF65C0E5AE5BB2",
+                      "Size":  171641
+                  },
+                  {
+                      "Path":  "locales/am.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/am.pak",
+                      "MD5":  "B0BA85D1C79245BB783D58E1139A651C",
+                      "Size":  413348
+                  },
+                  {
+                      "Path":  "locales/ar.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/ar.pak",
+                      "MD5":  "22CD45E01AA28517D889AC67208E180D",
+                      "Size":  433549
+                  },
+                  {
+                      "Path":  "locales/bg.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/bg.pak",
+                      "MD5":  "BABD22E6B09CA12C93D06EC36D92C6DE",
+                      "Size":  465788
+                  },
+                  {
+                      "Path":  "locales/bn.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/bn.pak",
+                      "MD5":  "1849D7158687C77C16EFA8CD7FE1D979",
+                      "Size":  611836
+                  },
+                  {
+                      "Path":  "locales/ca.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/ca.pak",
+                      "MD5":  "7CF40B2C6379FAB8BAA41380BE9E0EB6",
+                      "Size":  289745
+                  },
+                  {
+                      "Path":  "locales/cs.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/cs.pak",
+                      "MD5":  "DB3E8D4628F243C02863086D39C10864",
+                      "Size":  298625
+                  },
+                  {
+                      "Path":  "locales/da.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/da.pak",
+                      "MD5":  "728EA390F747239D461E57115A060CA8",
+                      "Size":  267379
+                  },
+                  {
+                      "Path":  "locales/de.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/de.pak",
+                      "MD5":  "CA76E387CE15DCE1A3DE3B0AA84F8A00",
+                      "Size":  288190
+                  },
+                  {
+                      "Path":  "locales/el.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/el.pak",
+                      "MD5":  "837449D9A95DF52F13CEB080F94CFC94",
+                      "Size":  513574
+                  },
+                  {
+                      "Path":  "locales/en-GB.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/en-GB.pak",
+                      "MD5":  "A4652AF7C9FEFB7DF78BE198BC0F1690",
+                      "Size":  236317
+                  },
+                  {
+                      "Path":  "locales/en-US.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/en-US.pak",
+                      "MD5":  "AB7C73B9550F5A4CFFA9EAE2599C5BCA",
+                      "Size":  238926
+                  },
+                  {
+                      "Path":  "locales/es-419.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/es-419.pak",
+                      "MD5":  "CC8FD9346D359A35B335A118CD0EC96B",
+                      "Size":  284331
+                  },
+                  {
+                      "Path":  "locales/es.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/es.pak",
+                      "MD5":  "901BAEE1EAF1618DE55553A2B57A51CA",
+                      "Size":  288657
+                  },
+                  {
+                      "Path":  "locales/et.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/et.pak",
+                      "MD5":  "BC9A8E55F3C7C50453997DB106BE65F9",
+                      "Size":  257568
+                  },
+                  {
+                      "Path":  "locales/fa.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/fa.pak",
+                      "MD5":  "D61AFF0A217147DA40F01F16CDD5C079",
+                      "Size":  414396
+                  },
+                  {
+                      "Path":  "locales/fi.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/fi.pak",
+                      "MD5":  "2AB3771A7ADFFC15D4BA353517C30130",
+                      "Size":  265714
+                  },
+                  {
+                      "Path":  "locales/fil.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/fil.pak",
+                      "MD5":  "61AE7D0CFF741775F42CF23985C46993",
+                      "Size":  295946
+                  },
+                  {
+                      "Path":  "locales/fr.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/fr.pak",
+                      "MD5":  "B85E08373D3B1B48F7C900113E2F15F8",
+                      "Size":  313487
+                  },
+                  {
+                      "Path":  "locales/gu.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/gu.pak",
+                      "MD5":  "7395C105722B886E48C280C15AD50B0E",
+                      "Size":  584763
+                  },
+                  {
+                      "Path":  "locales/he.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/he.pak",
+                      "MD5":  "BF92B9168923D2BC679B7805A499B8B9",
+                      "Size":  359846
+                  },
+                  {
+                      "Path":  "locales/hi.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/hi.pak",
+                      "MD5":  "A5ABAC65FFCFF8170581B9C034584D92",
+                      "Size":  603885
+                  },
+                  {
+                      "Path":  "locales/hr.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/hr.pak",
+                      "MD5":  "551A028F653403CD87CD77663D2D27AB",
+                      "Size":  284951
+                  },
+                  {
+                      "Path":  "locales/hu.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/hu.pak",
+                      "MD5":  "D193F18203A2EBC9C9EC09E9EC0890D0",
+                      "Size":  306368
+                  },
+                  {
+                      "Path":  "locales/id.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/id.pak",
+                      "MD5":  "054FCBA940CA9DEFE4BB20B30F2D5389",
+                      "Size":  255604
+                  },
+                  {
+                      "Path":  "locales/it.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/it.pak",
+                      "MD5":  "9A2E361316EAA685C984EB64711ADCF9",
+                      "Size":  279967
+                  },
+                  {
+                      "Path":  "locales/ja.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/ja.pak",
+                      "MD5":  "4AB642C99199D20619AE7D7942F7F91D",
+                      "Size":  346736
+                  },
+                  {
+                      "Path":  "locales/kn.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/kn.pak",
+                      "MD5":  "14A71721C6BFBCBFB491A2F933F27F3B",
+                      "Size":  680192
+                  },
+                  {
+                      "Path":  "locales/ko.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/ko.pak",
+                      "MD5":  "98F13356B0D4B5892F4D4EE0451D7336",
+                      "Size":  291958
+                  },
+                  {
+                      "Path":  "locales/lt.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/lt.pak",
+                      "MD5":  "7362F1D8629429645F4FF428E096199E",
+                      "Size":  308318
+                  },
+                  {
+                      "Path":  "locales/lv.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/lv.pak",
+                      "MD5":  "8806DC263CA30F6F9B38AB8AD70A8C4E",
+                      "Size":  304827
+                  },
+                  {
+                      "Path":  "locales/ml.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/ml.pak",
+                      "MD5":  "B88A565A37C36B333A4FB86A0B281D31",
+                      "Size":  715009
+                  },
+                  {
+                      "Path":  "locales/mr.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/mr.pak",
+                      "MD5":  "CDFDDFCB62EFF0ADE50BF89D5A303706",
+                      "Size":  573132
+                  },
+                  {
+                      "Path":  "locales/ms.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/ms.pak",
+                      "MD5":  "7FC4101E8A9F13066EA75C23DA3358D2",
+                      "Size":  265651
+                  },
+                  {
+                      "Path":  "locales/nb.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/nb.pak",
+                      "MD5":  "6E14E13DFB2646624DC57F39EEA4CFD3",
+                      "Size":  260588
+                  },
+                  {
+                      "Path":  "locales/nl.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/nl.pak",
+                      "MD5":  "436817723CD42BC0E227EC386AE65B48",
+                      "Size":  271318
+                  },
+                  {
+                      "Path":  "locales/pl.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/pl.pak",
+                      "MD5":  "C7CF1D92FB6CEAECBD5A279CF5134A5B",
+                      "Size":  297101
+                  },
+                  {
+                      "Path":  "locales/pt-BR.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/pt-BR.pak",
+                      "MD5":  "5937AF071A7A3D3D969D858B93ED048C",
+                      "Size":  281721
+                  },
+                  {
+                      "Path":  "locales/pt-PT.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/pt-PT.pak",
+                      "MD5":  "1C868D4CE9B3EF15EAEFF85A0B7B58C0",
+                      "Size":  284180
+                  },
+                  {
+                      "Path":  "locales/ro.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/ro.pak",
+                      "MD5":  "1278C56E18379F68EB15BD2BA7341A1F",
+                      "Size":  291806
+                  },
+                  {
+                      "Path":  "locales/ru.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/ru.pak",
+                      "MD5":  "B7614948939A4E05E72ADF0822189805",
+                      "Size":  468232
+                  },
+                  {
+                      "Path":  "locales/sk.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/sk.pak",
+                      "MD5":  "868AD89E40B6BE029851D93BF6EE3EFF",
+                      "Size":  303000
+                  },
+                  {
+                      "Path":  "locales/sl.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/sl.pak",
+                      "MD5":  "BED890595064177627838A8C32D0E136",
+                      "Size":  289948
+                  },
+                  {
+                      "Path":  "locales/sr.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/sr.pak",
+                      "MD5":  "AB72B86741473DDDA2F7CAC574C36B56",
+                      "Size":  444323
+                  },
+                  {
+                      "Path":  "locales/sv.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/sv.pak",
+                      "MD5":  "679E792225EF969BF80244556AC057A3",
+                      "Size":  262748
+                  },
+                  {
+                      "Path":  "locales/sw.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/sw.pak",
+                      "MD5":  "818AA9A3DC8151A74357F2E45D9421A0",
+                      "Size":  269024
+                  },
+                  {
+                      "Path":  "locales/ta.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/ta.pak",
+                      "MD5":  "501D311649ED9F8C901886674328A1A9",
+                      "Size":  688241
+                  },
+                  {
+                      "Path":  "locales/te.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/te.pak",
+                      "MD5":  "0E64CDB6D7ED57B6889A075D050874D8",
+                      "Size":  644671
+                  },
+                  {
+                      "Path":  "locales/th.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/th.pak",
+                      "MD5":  "2C29B6C74A3C7F5C5CC60D90549C89D4",
+                      "Size":  546364
+                  },
+                  {
+                      "Path":  "locales/tr.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/tr.pak",
+                      "MD5":  "CD7EDAFBE1D37B5CD04ED83DFD52B33B",
+                      "Size":  278635
+                  },
+                  {
+                      "Path":  "locales/uk.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/uk.pak",
+                      "MD5":  "A298FD06EF28A9F67D7E501566BC9BDE",
+                      "Size":  470352
+                  },
+                  {
+                      "Path":  "locales/vi.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/vi.pak",
+                      "MD5":  "D05E934ABB04DC99EA31BFE987237072",
+                      "Size":  326491
+                  },
+                  {
+                      "Path":  "locales/zh-CN.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/zh-CN.pak",
+                      "MD5":  "DBEA54C736DC943241F4C3833CE774B7",
+                      "Size":  242399
+                  },
+                  {
+                      "Path":  "locales/zh-TW.pak",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/locales/zh-TW.pak",
+                      "MD5":  "8B8177F2EFE0B318A1FB4037A69A8773",
+                      "Size":  242041
+                  },
+                  {
+                      "Path":  "swiftshader/libEGL.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/swiftshader/libEGL.dll",
+                      "MD5":  "6D483B19884144EC1CF8780029EDA01F",
+                      "Size":  417792
+                  },
+                  {
+                      "Path":  "swiftshader/libGLESv2.dll",
+                      "Url":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/2026.112.1607/swiftshader/libGLESv2.dll",
+                      "MD5":  "F5D6C0454957DBBE23AAF73B4F72A103",
+                      "Size":  2716160
+                  }
+              ],
+    "TotalSize":  209443177,
+    "ReleaseDate":  "2026-01-12 16:08:07",
+    "CDNBaseUrl":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader",
+    "UpdateNotes":  [
+                        "Recent updates:",
+                        "feat: 实现自动更新系统和批量操作功能",
+                        "feat(批量操作): 实现新闻列表批量喜欢/不喜欢功能",
+                        "refactor: 彻底移除百度新闻相关功能代码",
+                        "feat(资讯阅读): 当正文为空时直接打开原文链接并增强内容抓取",
+                        "fix(百度本地城市): 规范化城市配置，去重并补全内置城市",
+                        "feat(新闻收集): 添加立即获取全部新闻源功能并增强设置",
+                        "feat(新闻收集): 添加百度本地城市新闻支持",
+                        "feat(推荐系统): 实现基于新闻特征记录的机器学习训练功能",
+                        "refactor(推荐系统): 优化用户评分后的处理流程",
+                        "feat(日志): 添加操作日志功能及界面",
+                        "feat: 优化新闻获取系统并添加可靠源配置",
+                        "perf(BackgroundNewsCollector): 优化并行任务处理以提高性能",
+                        "feat(新闻系统): 实现新闻获取系统全面优化方案",
+                        "feat(分词服务): 集成结巴分词组件并实现混合分词策略",
+                        "feat(推荐系统): 增强AI推荐功能并添加多维度特征分析",
+                        "feat(去重): 实现智能新闻去重功能",
+                        "feat: 新增智能邮箱模式功能及设置界面"
+                    ]
+}
