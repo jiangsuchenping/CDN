@@ -1,0 +1,29 @@
+﻿{
+    "MD5":  "F695BDBEAC995A2E84202825D43D2787",
+    "Description":  "SmartReader Installer - Single File Setup",
+    "FileName":  "SmartReader-Setup-2026.112.1804.exe",
+    "DownloadUrl":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/setup/SmartReader-Setup-2026.112.1804.exe",
+    "Version":  "2026.112.1804",
+    "SystemRequirements":  {
+                               "RAM":  "512 MB",
+                               "OS":  "Windows 7 or later (x64)",
+                               "Framework":  ".NET Framework 4.7.2 or later",
+                               "DiskSpace":  "200 MB"
+                           },
+    "ReleaseDate":  "2026-01-12 18:04:43",
+    "Features":  [
+                     "Single file installer",
+                     "Automatic .NET Framework check",
+                     "Desktop shortcut creation",
+                     "Start menu integration",
+                     "Auto-update support",
+                     "Clean uninstall"
+                 ],
+    "InstallInstructions":  [
+                                "1. Download SmartReader-Setup.exe",
+                                "2. Run the installer",
+                                "3. Follow the installation wizard",
+                                "4. Launch SmartReader from Start Menu or Desktop"
+                            ],
+    "FileSize":  66393032
+}
