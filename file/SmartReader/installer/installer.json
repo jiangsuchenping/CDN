@@ -1,0 +1,21 @@
+﻿{
+    "DownloadUrl":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/installer/2026.112.1615/SmartReader.exe",
+    "PackageUrl":  "https://cdn.jsdelivr.net/gh/jiangsuchenping/cdn/file/SmartReader/installer/2026.112.1615/",
+    "InstallInstructions":  [
+                                "1. Download the installer package",
+                                "2. Extract to your preferred location",
+                                "3. Run SmartReader.exe",
+                                "4. Auto-update will work for future versions"
+                            ],
+    "Version":  "2026.112.1615",
+    "Description":  "SmartReader Initial Installer - Full Package",
+    "ReleaseDate":  "2026-01-12 16:15:07",
+    "FileCount":  109,
+    "TotalSize":  210954881,
+    "Features":  [
+                     "Complete installation package",
+                     "No dependencies required",
+                     "Auto-update support after installation",
+                     "All features included"
+                 ]
+}
