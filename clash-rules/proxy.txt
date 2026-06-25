@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,stackoverflow.com
