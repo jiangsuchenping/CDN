@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# SmartReader build artifacts
+file/SmartReader/*/
+file/SmartReader/setup/*.exe
+file/SmartReader/installer/*/
+!file/SmartReader/version.json
+!file/SmartReader/latest.txt
