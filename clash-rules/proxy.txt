@@ -24,5 +24,5 @@ payload:
   - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,doubao.com
   - DOMAIN-SUFFIX,mchost.guru
-  - PROCESS-NAME,Doubao
-  - PROCESS-NAME,OneDrive
+  - PROCESS-NAME,Doubao.exe
+  - PROCESS-NAME,OneDrive.exe
