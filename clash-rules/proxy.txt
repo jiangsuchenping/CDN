@@ -22,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,tiktok.com
   - PROCESS-NAME,Trae
   - PROCESS-NAME,Doubao
+  - PROCESS-NAME,OneDrive
