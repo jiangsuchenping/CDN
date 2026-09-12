@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,tiktok.com
   - PROCESS-NAME,Trae
   - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,doubao.com
   - DOMAIN-SUFFIX,mchost.guru
   - PROCESS-NAME,Doubao
   - PROCESS-NAME,OneDrive
