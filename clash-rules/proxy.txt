@@ -21,8 +21,4 @@ payload:
   - DOMAIN-SUFFIX,nuget.com
   - DOMAIN-SUFFIX,tiktok.com
   - PROCESS-NAME,Trae.exe
-  - DOMAIN-SUFFIX,zijieapi.com
-  - DOMAIN-SUFFIX,doubao.com
-  - DOMAIN-SUFFIX,mchost.guru
-  - PROCESS-NAME,Doubao.exe
-  - PROCESS-NAME,OneDrive.exe
+
