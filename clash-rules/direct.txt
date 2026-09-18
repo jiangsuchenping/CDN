@@ -5,5 +5,7 @@
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,bytednsdoc.com
     - GEOSITE,microsoft
+    - GEOSITE,win-update
+    - GEOSITE,private
     - GEOIP,cn
     - GEOSITE,cn
