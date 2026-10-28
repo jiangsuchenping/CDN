@@ -2,7 +2,7 @@
     "app":  "quickstart",
     "channel":  "stable",
     "version":  "0.2.4",
-    "released":  "2026-10-28T19:57:18+08:00",
+    "released":  "2026-10-28T19:57:31+08:00",
     "mandatory":  false,
     "min_supported":  "0.1.0",
     "notes":  [
