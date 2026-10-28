@@ -1,0 +1,14 @@
+{
+    "app":  "quickstart",
+    "channel":  "stable",
+    "version":  "0.2.5",
+    "released":  "2026-10-28T20:04:34+08:00",
+    "mandatory":  false,
+    "min_supported":  "0.1.0",
+    "notes":  [
+                  "在线升级：tag feed + 双源版本发现；静默下载、重启生效、保留上一版可回滚"
+              ],
+    "file":  "QuickStart-0.2.5-win64.qsp",
+    "size":  5944320,
+    "sha256":  "38536626aa415b626521d8d7463981808763fa0c0c9a4506bf84630a13d968c6"
+}
