@@ -1,0 +1,14 @@
+{
+    "app":  "quickstart",
+    "channel":  "stable",
+    "version":  "0.2.8",
+    "released":  "2026-10-29T13:11:06+08:00",
+    "mandatory":  false,
+    "min_supported":  "0.1.0",
+    "notes":  [
+                  "修复搜索框输入数字会启动第N项并收起窗口的问题；搜索框内Ctrl+C不再被截走去复制应用路径"
+              ],
+    "file":  "QuickStart-0.2.8-win64.qsp",
+    "size":  5949440,
+    "sha256":  "bd4ddccdc7e59ecb16c90724c9486715884a9a0bc9a238186ead8501bd4ed730"
+}
