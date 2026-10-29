@@ -1,0 +1,16 @@
+{
+    "app":  "quickstart",
+    "channel":  "stable",
+    "version":  "0.2.9",
+    "released":  "2026-10-29T17:42:24+08:00",
+    "mandatory":  false,
+    "min_supported":  "0.1.0",
+    "notes":  [
+                  "唤起窗口即时刷新列表",
+                  "后端 60s 缓存提速",
+                  "全新应用图标"
+              ],
+    "file":  "QuickStart-0.2.9-win64.qsp",
+    "size":  5932544,
+    "sha256":  "cd823639be717134e5a153a235f2485df4309322cc0131f1fbae31cbd0202a95"
+}
