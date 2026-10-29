@@ -1,0 +1,14 @@
+{
+    "app":  "quickstart",
+    "channel":  "stable",
+    "version":  "0.2.7",
+    "released":  "2026-10-29T10:42:29+08:00",
+    "mandatory":  false,
+    "min_supported":  "0.1.0",
+    "notes":  [
+                  "修正自动升级时机：下载完成当拍不再立即重启，静候下一巡检点，给用户至少10分钟缓冲"
+              ],
+    "file":  "QuickStart-0.2.7-win64.qsp",
+    "size":  5949440,
+    "sha256":  "9ce8db9070815e4358a177997fe35f0303c46b6edf23eb2f6a85b151f2ea1e4d"
+}
