@@ -1,0 +1,14 @@
+{
+    "app":  "quickstart",
+    "channel":  "stable",
+    "version":  "0.2.6",
+    "released":  "2026-10-29T10:32:49+08:00",
+    "mandatory":  false,
+    "min_supported":  "0.1.0",
+    "notes":  [
+                  "升级全自动：静默下载完成后自动重启安装，托盘可关闭；在线升级文档与细节修正"
+              ],
+    "file":  "QuickStart-0.2.6-win64.qsp",
+    "size":  5948928,
+    "sha256":  "4a910afd2b1ad5a3fc748ceab236e788b43c078e70e4a375f6c80d769df422fe"
+}
