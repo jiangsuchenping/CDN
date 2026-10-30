@@ -1,0 +1,16 @@
+{
+    "app":  "quickstart",
+    "channel":  "stable",
+    "version":  "0.2.10",
+    "released":  "2026-10-30T10:58:15+08:00",
+    "mandatory":  false,
+    "min_supported":  "0.1.0",
+    "notes":  [
+                  "新增右上角设置面板，托盘设置项集中迁移",
+                  "主屏显示改为行数可设置(3/5/8/全部)",
+                  "移除显示更多按钮，主屏更简洁流畅"
+              ],
+    "file":  "QuickStart-0.2.10-win64.qsp",
+    "size":  5931520,
+    "sha256":  "5baeae874593c631799cd2a33d7ec9395739c00fe3f5b3be303da29cf306c248"
+}
