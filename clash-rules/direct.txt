@@ -1,8 +1,8 @@
   payload:
-    - PROCESS-NAME,OneDrive
-    - PROCESS-NAME,OneDrive.exe
-    - GEOSITE,microsoft
-    - GEOSITE,win-update
-    - GEOSITE,private
-    - GEOIP,cn
-    - GEOSITE,cn
+    #- PROCESS-NAME,OneDrive
+    #- PROCESS-NAME,OneDrive.exe
+    #- GEOSITE,microsoft
+    #- GEOSITE,win-update
+    #- GEOSITE,private
+    #- GEOIP,cn
+    #- GEOSITE,cn
