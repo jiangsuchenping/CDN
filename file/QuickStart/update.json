@@ -1,0 +1,15 @@
+{
+    "app":  "quickstart",
+    "channel":  "stable",
+    "version":  "0.2.11",
+    "released":  "2026-10-30T16:34:03+08:00",
+    "mandatory":  false,
+    "min_supported":  "0.1.0",
+    "notes":  [
+                  "修复: 0.2.10 及更早的自动升级载荷缺少 custom-protocol，前端固定加载 localhost:1420 导致无法访问",
+                  "本版重新以完整发布流程构建"
+              ],
+    "file":  "QuickStart-0.2.11-win64.qsp",
+    "size":  6013440,
+    "sha256":  "0bc6e4e22dcd6f31fce00745ba289d6286dfe83caee9ccde1de459747bdb4129"
+}
