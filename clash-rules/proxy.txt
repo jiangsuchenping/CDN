@@ -23,3 +23,4 @@ payload:
   - DOMAIN-SUFFIX,nuget.com
   - DOMAIN-SUFFIX,tiktok.com
   - PROCESS-NAME,Trae.exe
+  - PROCESS-NAME,ima.copilot.exe
