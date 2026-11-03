@@ -1,0 +1,16 @@
+{
+    "app":  "quickstart",
+    "channel":  "stable",
+    "version":  "0.2.12",
+    "released":  "2026-11-03T18:55:59+08:00",
+    "mandatory":  false,
+    "min_supported":  "0.1.0",
+    "notes":  [
+                  "一个应用只占一格：PortableApps 启动器与内部真身归并",
+                  "修快捷方式代表名口径，全盘去掉 24 条重复（Qoder 家族 10→6）",
+                  "安装包与程序内部件不再进网格：2138→1911"
+              ],
+    "file":  "QuickStart-0.2.12-win64.qsp",
+    "size":  6014976,
+    "sha256":  "c5eeb6b5d27ff6dcbd501a09cc8ac9586b8ea55c947f8420f1fccbbfe325b2c4"
+}
