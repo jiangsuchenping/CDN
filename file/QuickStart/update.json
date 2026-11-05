@@ -1,0 +1,16 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.13",
+  "released": "2026-11-05T13:54:36+08:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "Log file now written to app data next to the database",
+    "Settings panel adds View Log and Data Folder buttons",
+    "Explorer /select replaced with Shell API reveal"
+  ],
+  "file": "QuickStart-0.2.13-win64.qsp",
+  "size": 6018048,
+  "sha256": "54ac4c7e6bb5c2caf85b6416466105535a9d9cffeb93f29ec3ae9fff3dda8560"
+}
