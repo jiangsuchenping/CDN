@@ -1,0 +1,17 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.14",
+  "released": "2026-11-05T16:04:44+08:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "Fix ranking: real usage time dominates",
+    "launch count demoted",
+    "bayes gated",
+    "workflow lift capped"
+  ],
+  "file": "QuickStart-0.2.14-win64.qsp",
+  "size": 6028288,
+  "sha256": "8614fa50aab52b2819e6eac277e00c74dc06bbc98517d60c53fb69508a86c85f"
+}
