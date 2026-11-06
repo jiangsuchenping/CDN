@@ -8,3 +8,4 @@
     - GEOSITE,cn
     - DOMAIN-SUFFIX,autorefresh.io
     - DOMAIN-SUFFIX,byteintlapi.com
+    - DOMAIN-SUFFIX,adblockplus.org
