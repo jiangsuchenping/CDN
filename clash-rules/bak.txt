@@ -52,11 +52,10 @@ rules:
   - GEOSITE,!cn,AllProxies
   - MATCH,AllProxies
 
-    - PROCESS-NAME,OneDrive
-    - PROCESS-NAME,OneDrive.exe
+
     - GEOSITE,microsoft
     - GEOSITE,win-update
-    - GEOSITE,private
+
     - GEOIP,cn
     - GEOSITE,cn
 
@@ -104,8 +103,7 @@ DIRECT.txt
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,bytednsdoc.com
     - GEOSITE,microsoft
-    - GEOIP,cn
-    - GEOSITE,cn
+
 
 reject.txt
     - DOMAIN-SUFFIX,activity.windows.com
