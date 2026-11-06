@@ -7,3 +7,4 @@
     - GEOIP,cn
     - GEOSITE,cn
     - DOMAIN-SUFFIX,autorefresh.io
+    - DOMAIN-SUFFIX,byteintlapi.com
