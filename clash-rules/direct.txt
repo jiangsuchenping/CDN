@@ -6,3 +6,4 @@
     - GEOSITE,private
     - GEOIP,cn
     - GEOSITE,cn
+    - DOMAIN-SUFFIX,autorefresh.io
