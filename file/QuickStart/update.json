@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.15",
+  "released": "2026-11-08T01:48:46+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "0.2.15 更新说明：发版自动化上线，发布流程改由 GitHub Actions 驱动"
+  ],
+  "file": "QuickStart-0.2.15-win64.qsp",
+  "size": 5769216,
+  "sha256": "0bd1c3629775f7da43af27123205c723e520c72295efd2ff731d161b1044dd61"
+}
