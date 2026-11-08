@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.16",
+  "released": "2026-11-08T07:14:24+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "新增常开守护：自动创建计划任务，意外退出后自动拉回"
+  ],
+  "file": "QuickStart-0.2.16-win64.qsp",
+  "size": 5790720,
+  "sha256": "615b03279476146e5b41f7926d716bca1635c7ef533337d239bbbab8661d00ee"
+}
