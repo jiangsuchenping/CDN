@@ -1,5 +1,7 @@
   payload:
     - GEOSITE,private
+    - GEOIP,cn
+    - GEOSITE,cn
 
     - GEOSITE,category-ads-all
     - GEOSITE,category-ads
