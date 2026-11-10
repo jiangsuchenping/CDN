@@ -4,8 +4,8 @@
     - GEOSITE,microsoft
     - GEOSITE,win-update
     - GEOSITE,private
-    - GEOIP,cn,no-resolve
-    - GEOSITE,cn,no-resolve
+    - GEOIP,cn
+    - GEOSITE,cn
     - DOMAIN-SUFFIX,autorefresh.io
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,adblockplus.org
