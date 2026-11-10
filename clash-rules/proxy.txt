@@ -1,20 +1,10 @@
 payload: 
+  # 技术学习需要
    - GEOSITE,github
    - DOMAIN-SUFFIX,github.com
    - DOMAIN-SUFFIX,github.io
    - DOMAIN-SUFFIX,githubusercontent.com
    - DOMAIN-SUFFIX,githubassets.com
-
-
-   - GEOSITE,google
-   - GEOSITE,x
-   - GEOSITE,tweeter
-   - DOMAIN-SUFFIX,youtube.com
-   - DOMAIN-SUFFIX,google.com
-   - DOMAIN-SUFFIX,gmail.com
-
-   - DOMAIN-SUFFIX,x.com
-   - DOMAIN-SUFFIX,facebook.com
    - DOMAIN-SUFFIX,stackoverflow.com
    - DOMAIN-SUFFIX,jsdelivr.net
    - DOMAIN-SUFFIX,copilot.microsoft.com
@@ -24,5 +14,20 @@ payload:
    - DOMAIN-SUFFIX,nuget.org
    - DOMAIN-SUFFIX,nuget.net
    - DOMAIN-SUFFIX,nuget.com
+
+
+   - GEOSITE,google
+   - DOMAIN-SUFFIX,google.com
+   - DOMAIN-SUFFIX,gmail.com
+
+  
+   - GEOSITE,x
+   - GEOSITE,tweeter
+   - DOMAIN-SUFFIX,x.com
+   - DOMAIN-SUFFIX,facebook.com
    - DOMAIN-SUFFIX,tiktok.com
-   - PROCESS-NAME,Trae.exe
+   - DOMAIN-SUFFIX,youtube.com
+ 
+
+
+

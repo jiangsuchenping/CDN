@@ -4,6 +4,7 @@
     - GEOSITE,category-ads-all
     - GEOSITE,category-ads
 
+    # 微软
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe
     - GEOSITE,microsoft
@@ -16,6 +17,7 @@
     - DOMAIN-SUFFIX,autorefresh.io
     - DOMAIN-SUFFIX,adblockplus.org
 
+    # 字节
     - DOMAIN-SUFFIX,byteoversea.com 
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,bytednsdoc.com
