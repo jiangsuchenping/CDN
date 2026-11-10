@@ -19,7 +19,7 @@
     - DOMAIN-SUFFIX,live.com
     - DOMAIN-SUFFIX,msn.com
     - DOMAIN-SUFFIX,hotmail.com
-    - DOMAIN,edge.microsoft.com
+    #- DOMAIN,edge.microsoft.com
 
     - DOMAIN-SUFFIX,autorefresh.io
     - DOMAIN-SUFFIX,adblockplus.org
