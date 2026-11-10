@@ -1,5 +1,3 @@
 payload:
-    #- PROCESS-NAME,OneDrive
-    #- PROCESS-NAME,OneDrive.exe
     - GEOSITE,category-ads-all
     - GEOSITE,category-ads
