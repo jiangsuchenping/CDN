@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.17",
+  "released": "2026-11-10T03:24:57+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "新增 2027 年法定节假日数据：内置完整假期区间与调休补班日，补充回归测试"
+  ],
+  "file": "QuickStart-0.2.17-win64.qsp",
+  "size": 5791232,
+  "sha256": "b9f95ca79cffbcc02d6d37e4f1cd95eef62498aca4e2c111a13b6e4785560cfd"
+}
