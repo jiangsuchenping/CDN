@@ -118,3 +118,17 @@ reject.txt
     - GEOSITE,category-ads
     - GEOSITE,category-privacy
     - GEOSITE,win-spy
+
+
+proxy.txt
+   - GEOSITE,google
+   - DOMAIN-SUFFIX,google.com
+   - DOMAIN-SUFFIX,gmail.com
+
+  
+   - GEOSITE,x
+   - GEOSITE,tweeter
+   - DOMAIN-SUFFIX,x.com
+   - DOMAIN-SUFFIX,facebook.com
+   - DOMAIN-SUFFIX,tiktok.com
+   - DOMAIN-SUFFIX,youtube.com

@@ -9,24 +9,13 @@ payload:
    - DOMAIN-SUFFIX,jsdelivr.net
    - DOMAIN-SUFFIX,copilot.microsoft.com
    - DOMAIN-SUFFIX,sentry.io
-   - DOMAIN-SUFFIX,trae.ai
+
    - DOMAIN-SUFFIX,npmjs.com
    - DOMAIN-SUFFIX,nuget.org
    - DOMAIN-SUFFIX,nuget.net
    - DOMAIN-SUFFIX,nuget.com
 
 
-   - GEOSITE,google
-   - DOMAIN-SUFFIX,google.com
-   - DOMAIN-SUFFIX,gmail.com
-
-  
-   - GEOSITE,x
-   - GEOSITE,tweeter
-   - DOMAIN-SUFFIX,x.com
-   - DOMAIN-SUFFIX,facebook.com
-   - DOMAIN-SUFFIX,tiktok.com
-   - DOMAIN-SUFFIX,youtube.com
  
 
 
