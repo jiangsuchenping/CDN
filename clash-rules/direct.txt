@@ -11,8 +11,12 @@
     - GEOSITE,win-update
     - DOMAIN-SUFFIX,microsoft.com
     - DOMAIN-SUFFIX,office.com
+    - DOMAIN-SUFFIX,office.net
     - DOMAIN-SUFFIX,office365.com
     - DOMAIN-SUFFIX,windows.com
+    - DOMAIN-SUFFIX,live.com
+    - DOMAIN-SUFFIX,msn.com
+    - DOMAIN-SUFFIX,hotmail.com
 
     - DOMAIN-SUFFIX,autorefresh.io
     - DOMAIN-SUFFIX,adblockplus.org
