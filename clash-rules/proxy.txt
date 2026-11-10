@@ -9,7 +9,6 @@ payload:
    - DOMAIN-SUFFIX,jsdelivr.net
    - DOMAIN-SUFFIX,copilot.microsoft.com
    - DOMAIN-SUFFIX,sentry.io
-
    - DOMAIN-SUFFIX,npmjs.com
    - DOMAIN-SUFFIX,nuget.org
    - DOMAIN-SUFFIX,nuget.net
