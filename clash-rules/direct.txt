@@ -1,8 +1,14 @@
   payload:
+    - GEOSITE,private
+    
+    - GEOSITE,category-ads-all
+    - GEOSITE,category-ads
+
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe
+
     - GEOSITE,win-update
-    - GEOSITE,private
+
     - DOMAIN-SUFFIX,autorefresh.io
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,adblockplus.org
