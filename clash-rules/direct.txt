@@ -7,6 +7,7 @@
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe
 
+    - GEOSITE,microsoft
     - GEOSITE,win-update
 
     - DOMAIN-SUFFIX,autorefresh.io
