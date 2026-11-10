@@ -1,4 +1,6 @@
 payload: 
+  - GEOSITE,!cn
+  - GEOIP,!cn
   # - GEOSITE,google
   # - GEOSITE,github
   # - GEOSITE,x
