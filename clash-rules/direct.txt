@@ -1,7 +1,13 @@
   payload:
-    - GEOSITE,private
-    - GEOIP,cn
+    - GEOSITE,private 
+    - GEOIP,private,no-resolve
+
+    - GEOSITE,OneDrive
+    - GEOSITE,microsoft
+    - GEOSITE,win-update
+
     - GEOSITE,cn
+    - GEOIP,CN,no-resolve
 
     # 微软
     #- PROCESS-NAME,OneDrive

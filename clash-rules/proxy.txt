@@ -1,18 +1,22 @@
 payload: 
+  - GEOSITE,geolocation-!cn
+  - GEOIP,geolocation-!CN,no-resolve
+
+
   # 技术学习需要
-   - GEOSITE,github
-   - DOMAIN-SUFFIX,github.com
-   - DOMAIN-SUFFIX,github.io
-   - DOMAIN-SUFFIX,githubusercontent.com
-   - DOMAIN-SUFFIX,githubassets.com
-   - DOMAIN-SUFFIX,stackoverflow.com
-   - DOMAIN-SUFFIX,jsdelivr.net
-   - DOMAIN-SUFFIX,copilot.microsoft.com
-   - DOMAIN-SUFFIX,sentry.io
-   - DOMAIN-SUFFIX,npmjs.com
-   - DOMAIN-SUFFIX,nuget.org
-   - DOMAIN-SUFFIX,nuget.net
-   - DOMAIN-SUFFIX,nuget.com
+   #- GEOSITE,github
+   #- DOMAIN-SUFFIX,github.com
+   #- DOMAIN-SUFFIX,github.io
+   #- DOMAIN-SUFFIX,githubusercontent.com
+   #- DOMAIN-SUFFIX,githubassets.com
+   #- DOMAIN-SUFFIX,stackoverflow.com
+   #- DOMAIN-SUFFIX,jsdelivr.net
+   #- DOMAIN-SUFFIX,copilot.microsoft.com
+   #- DOMAIN-SUFFIX,sentry.io
+   #- DOMAIN-SUFFIX,npmjs.com
+   #- DOMAIN-SUFFIX,nuget.org
+   #- DOMAIN-SUFFIX,nuget.net
+   #- DOMAIN-SUFFIX,nuget.com
 
 
  
