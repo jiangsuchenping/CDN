@@ -1,5 +1,5 @@
   payload:
-    #- GEOSITE,private
+    - GEOSITE,private
     #- GEOIP,cn
     #- GEOSITE,cn
 
