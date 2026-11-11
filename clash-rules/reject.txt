@@ -3,3 +3,8 @@ payload:
     - GEOSITE,category-ads
 
     - GEOSITE,win-spy
+
+    - DOMAIN-SUFFIX,sex
+    - DOMAIN-SUFFIX,xxx
+    - DOMAIN-SUFFIX,sexy
+    - DOMAIN-SUFFIX,adult
