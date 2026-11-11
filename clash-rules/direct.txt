@@ -33,17 +33,6 @@ payload:
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,bytednsdoc.com
 
-  # 其他
-    - DOMAIN-SUFFIX,ai
-    - DOMAIN-SUFFIX,microsoft
-    - DOMAIN-SUFFIX,google
-    - DOMAIN-SUFFIX,xyz
-    - DOMAIN-SUFFIX,guru
-    - DOMAIN-SUFFIX,sh
-    
-    - DOMAIN-SUFFIX,cloudflare.com
-    - DOMAIN-SUFFIX,autorefresh.io
-    - DOMAIN-SUFFIX,adblockplus.org
 
 
 
