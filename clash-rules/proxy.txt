@@ -1,8 +1,8 @@
 payload: 
-  - GEOIP,!CN
   # 技术学习需要
-   - GEOSITE,github
-
+  - GEOSITE,github
+  - GEOSITE,x
+  - GEOSITE,tweeter
  
 
    #- DOMAIN-SUFFIX,github.com
