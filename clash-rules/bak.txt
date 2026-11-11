@@ -25,9 +25,7 @@
  
 
 
-  - PROCESS-NAME,OneDrive
-  - PROCESS-NAME,OneDrive.exe  
-
+  
 
   - '*.sharepoint.com'
   - '*.microsoft.com'
@@ -51,13 +49,7 @@ rules:
   - GEOIP,!cn,AllProxies
   - GEOSITE,!cn,AllProxies
   - MATCH,AllProxies
-
-
-    - GEOSITE,microsoft
-    - GEOSITE,win-update
-
-    - GEOIP,cn
-    - GEOSITE,cn
+ 
 
 
 
@@ -68,57 +60,9 @@ rules:
 
 
 
+ 
 
-
-
-lancidr.txt 备份
-    - '0.0.0.0/8'
-  - '10.0.0.0/8'
-  - '100.64.0.0/10'
-  - '127.0.0.0/8'
-  - '169.254.0.0/16'
-  - '172.16.0.0/12'
-  - '192.0.0.0/24'
-  - '192.0.2.0/24'
-  - '192.88.99.0/24'
-  - '192.168.0.0/16'
-  - '198.18.0.0/15'
-  - '198.51.100.0/24'
-  - '203.0.113.0/24'
-  - '224.0.0.0/3'
-  - '::/127'
-  - 'fc00::/7'
-  - 'fe80::/10'
-  - 'ff00::/8'
-
-
-
-
-
-DIRECT.txt
-    payload:
-    - PROCESS-NAME,OneDrive
-    - PROCESS-NAME,OneDrive.exe  
-    - DOMAIN-SUFFIX,byteoversea.com 
-    - DOMAIN-SUFFIX,byteintlapi.com
-    - DOMAIN-SUFFIX,bytednsdoc.com
-    - GEOSITE,microsoft
-
-
-reject.txt
-    - DOMAIN-SUFFIX,activity.windows.com
-    - PROCESS-NAME,RedGate.Client.Service.exe
-    - PROCESS-NAME,RedGate.SqlPrompt.SqlHistory.Server.exe
-    - PROCESS-NAME,RedGate
-    - PROCESS-NAME,SqlPrompt
-    - DOMAIN-SUFFIX,red-gate.com
-    - DOMAIN-SUFFIX,featureusage.com
-    - DOMAIN-KEYWORD,RedGate
-    - GEOSITE,category-ads-all
-    - GEOSITE,category-ads
-    - GEOSITE,category-privacy
-    - GEOSITE,win-spy
-
+ 
 
 proxy.txt
    - GEOSITE,google
