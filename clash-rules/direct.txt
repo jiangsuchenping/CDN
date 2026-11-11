@@ -33,7 +33,8 @@
     - DOMAIN-SUFFIX,bytednsdoc.com
 
     # 其他
-    - '*.7777793.xyz'
+    - '*.xyz'
+    - '*.cloudflare.com'
 
 
     - GEOSITE,cn
