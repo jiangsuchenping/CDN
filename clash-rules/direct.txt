@@ -4,8 +4,9 @@
 
 
   # 鑫磊
-    - '*.shinsoft.net'
-    - '*.e-medicine.cn'
+    - DOMAIN-SUFFIX,shinsoft.net
+    - DOMAIN-SUFFIX,e-medicine.cn
+     
 
   # 微软
     - GEOSITE,OneDrive
@@ -33,13 +34,13 @@
     - DOMAIN-SUFFIX,bytednsdoc.com
 
     # 其他
-    - '*.ai'
-    - '*.microsoft'
-    - '*.google'
-    - '*.xyz'
-    - '*.guru'
-    - '*.cloudflare.com'
-
+    - DOMAIN-SUFFIX,ai
+    - DOMAIN-SUFFIX,microsoft
+    - DOMAIN-SUFFIX,google
+    - DOMAIN-SUFFIX,xyz
+    - DOMAIN-SUFFIX,guru
+    - DOMAIN-SUFFIX,cloudflare.com
+      
 
     - GEOSITE,cn
     - GEOIP,CN
