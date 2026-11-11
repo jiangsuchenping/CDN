@@ -7,7 +7,7 @@
     - GEOSITE,win-update
 
     - GEOSITE,cn
-    - GEOIP,CN,no-resolve
+    - GEOIP,CN
 
     # 微软
     #- PROCESS-NAME,OneDrive
