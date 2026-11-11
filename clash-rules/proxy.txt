@@ -1,12 +1,6 @@
 payload: 
    # 技术学习需要
-    - GEOSITE,github
-    - GEOSITE,x
-    - GEOSITE,tweeter
-    - GEOSITE,facebook
-    - GEOSITE,youtube
-    
- 
+    - GEOSITE,github 
    - DOMAIN-SUFFIX,github.com
    - DOMAIN-SUFFIX,github.io
    - DOMAIN-SUFFIX,githubusercontent.com
@@ -19,7 +13,9 @@ payload:
    - DOMAIN-SUFFIX,nuget.org
    - DOMAIN-SUFFIX,nuget.net
    - DOMAIN-SUFFIX,nuget.com
-   - DOMAIN-SUFFIX,google.com
+
+
+
    
 
 
