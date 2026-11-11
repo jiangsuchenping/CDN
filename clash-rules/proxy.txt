@@ -4,19 +4,19 @@ payload:
   - GEOSITE,x
   - GEOSITE,tweeter
  
-
-   #- DOMAIN-SUFFIX,github.com
-   #- DOMAIN-SUFFIX,github.io
-   #- DOMAIN-SUFFIX,githubusercontent.com
-   #- DOMAIN-SUFFIX,githubassets.com
-   #- DOMAIN-SUFFIX,stackoverflow.com
-   #- DOMAIN-SUFFIX,jsdelivr.net
-   #- DOMAIN-SUFFIX,copilot.microsoft.com
-   #- DOMAIN-SUFFIX,sentry.io
-   #- DOMAIN-SUFFIX,npmjs.com
-   #- DOMAIN-SUFFIX,nuget.org
-   #- DOMAIN-SUFFIX,nuget.net
-   #- DOMAIN-SUFFIX,nuget.com
+   - DOMAIN-SUFFIX,github.com
+   - DOMAIN-SUFFIX,github.io
+   - DOMAIN-SUFFIX,githubusercontent.com
+   - DOMAIN-SUFFIX,githubassets.com
+   - DOMAIN-SUFFIX,stackoverflow.com
+   - DOMAIN-SUFFIX,jsdelivr.net
+   - DOMAIN-SUFFIX,copilot.microsoft.com
+   - DOMAIN-SUFFIX,sentry.io
+   - DOMAIN-SUFFIX,npmjs.com
+   - DOMAIN-SUFFIX,nuget.org
+   - DOMAIN-SUFFIX,nuget.net
+   - DOMAIN-SUFFIX,nuget.com
+   - DOMAIN-SUFFIX,google.com
 
 
  
