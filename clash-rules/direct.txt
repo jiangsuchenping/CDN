@@ -1,4 +1,6 @@
   payload:
+    - '*.shinsoft.net'
+
     - GEOSITE,private 
     - GEOIP,private,no-resolve
 

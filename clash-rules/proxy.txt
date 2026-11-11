@@ -1,5 +1,5 @@
 payload: 
-  - GEOIP,!CN,no-resolve
+  - GEOIP,!CN
   # 技术学习需要
    - GEOSITE,github
 
