@@ -39,6 +39,7 @@ payload:
     - DOMAIN-SUFFIX,google
     - DOMAIN-SUFFIX,xyz
     - DOMAIN-SUFFIX,guru
+    - DOMAIN-SUFFIX,sh
     
     - DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,autorefresh.io
