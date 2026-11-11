@@ -33,7 +33,11 @@
     - DOMAIN-SUFFIX,bytednsdoc.com
 
     # 其他
+    - '*.ai'
+    - '*.microsoft'
+    - '*.google'
     - '*.xyz'
+    - '*.guru'
     - '*.cloudflare.com'
 
 
