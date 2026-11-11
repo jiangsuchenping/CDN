@@ -1,7 +1,7 @@
   payload:
-    #- GEOSITE,private
-    #- GEOIP,cn
-    #- GEOSITE,cn
+    - GEOSITE,private
+    - GEOIP,cn
+    - GEOSITE,cn
 
     # 微软
     #- PROCESS-NAME,OneDrive
