@@ -1,10 +1,6 @@
 payload: 
-  - GEOSITE,geolocation-!cn
-  - GEOIP,geolocation-!CN,no-resolve
-
-
   # 技术学习需要
-   #- GEOSITE,github
+   - GEOSITE,github
    #- DOMAIN-SUFFIX,github.com
    #- DOMAIN-SUFFIX,github.io
    #- DOMAIN-SUFFIX,githubusercontent.com
