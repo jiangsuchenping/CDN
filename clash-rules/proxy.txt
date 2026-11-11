@@ -3,6 +3,9 @@ payload:
     - GEOSITE,github
     - GEOSITE,x
     - GEOSITE,tweeter
+    - GEOSITE,facebook
+    - GEOSITE,youtube
+    
  
    - DOMAIN-SUFFIX,github.com
    - DOMAIN-SUFFIX,github.io
