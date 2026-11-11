@@ -32,6 +32,9 @@
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,bytednsdoc.com
 
+    # 其他
+    - '*.7777793.xyz'
+
 
     - GEOSITE,cn
     - GEOIP,CN
