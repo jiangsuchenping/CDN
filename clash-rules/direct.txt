@@ -1,49 +1,5 @@
   payload:
-    - GEOSITE,private 
-    - GEOIP,private,no-resolve
-
-
-  # 鑫磊
-    - DOMAIN-SUFFIX,shinsoft.net
-    - DOMAIN-SUFFIX,e-medicine.cn
-     
-
-  # 微软
-    - GEOSITE,OneDrive
-    - GEOSITE,microsoft
-    - GEOSITE,win-update
-    - PROCESS-NAME,OneDrive
-    - PROCESS-NAME,OneDrive.exe
-    - DOMAIN-SUFFIX,microsoft.com
-    - DOMAIN-SUFFIX,office.com
-    - DOMAIN-SUFFIX,office.net
-    - DOMAIN-SUFFIX,office365.com
-    - DOMAIN-SUFFIX,windows.com
-    - DOMAIN-SUFFIX,live.com
-    - DOMAIN-SUFFIX,msn.com
-    - DOMAIN-SUFFIX,hotmail.com
-    - DOMAIN-SUFFIX,edge.microsoft.com
-    - DOMAIN-SUFFIX,substrate.office.com
-
-    - DOMAIN-SUFFIX,autorefresh.io
-    - DOMAIN-SUFFIX,adblockplus.org
-
-    # 字节
-    - DOMAIN-SUFFIX,byteoversea.com 
-    - DOMAIN-SUFFIX,byteintlapi.com
-    - DOMAIN-SUFFIX,bytednsdoc.com
-
-    # 其他
-    - DOMAIN-SUFFIX,ai
-    - DOMAIN-SUFFIX,microsoft
-    - DOMAIN-SUFFIX,google
-    - DOMAIN-SUFFIX,xyz
-    - DOMAIN-SUFFIX,guru
-    - DOMAIN-SUFFIX,cloudflare.com
-      
-
-    - GEOSITE,cn
-    - GEOIP,CN
+   
  
 
 
