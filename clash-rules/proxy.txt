@@ -22,3 +22,7 @@ payload:
     - GEOSITE,tweeter
     - GEOSITE,x
     - GEOSITE,yahoo
+
+  # 特殊站点
+    - DOMAIN-SUFFIX,51job.com
+    - DOMAIN-SUFFIX,51jobcdn.com
