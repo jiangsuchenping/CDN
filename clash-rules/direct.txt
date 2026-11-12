@@ -28,6 +28,8 @@ payload:
 
 
     - DOMAIN-SUFFIX,autorefresh.io
+    - DOMAIN-SUFFIX,byteintlapi.com
+    
     
  
  
