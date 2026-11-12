@@ -42,6 +42,7 @@ payload:
     - DOMAIN-SUFFIX,gstatic.com
     - DOMAIN-SUFFIX,googleapis.com
     - DOMAIN-SUFFIX,cloudflare.com
+    - DOMAIN-SUFFIX,twimg.com
 
     
 
