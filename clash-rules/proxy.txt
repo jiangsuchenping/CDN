@@ -20,7 +20,8 @@ payload:
     - DOMAIN-SUFFIX,tweeter.com
     - DOMAIN-SUFFIX,youtube.com
     - DOMAIN-SUFFIX,yahoo.com
-    
+    - DOMAIN-SUFFIX,accounts.google.com
+
 
  
     
