@@ -25,6 +25,7 @@ payload:
     - DOMAIN-SUFFIX,hotmail.com
     - DOMAIN-SUFFIX,edge.microsoft.com
     - DOMAIN-SUFFIX,substrate.office.com
+    
 
 
 
@@ -34,7 +35,9 @@ payload:
     - DOMAIN-SUFFIX,bytednsdoc.com
 
 
-
+  # 新域名
+    - DOMAIN-SUFFIX,microsoft
+    - DOMAIN-SUFFIX,google
 
 
  

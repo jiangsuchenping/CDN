@@ -14,7 +14,13 @@ payload:
     - DOMAIN-SUFFIX,nuget.net
     - DOMAIN-SUFFIX,nuget.com
 
-
+  # 常用境外站点
+    - GEOSITE,google
+    - GEOSITE,youtube
+    - GEOSITE,facebook
+    - GEOSITE,tweeter
+    - GEOSITE,x
+    
  
 
 
