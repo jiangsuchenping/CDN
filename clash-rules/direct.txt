@@ -31,14 +31,13 @@ payload:
     - DOMAIN-SUFFIX,edge.microsoft.com
     - DOMAIN-SUFFIX,substrate.office.com
     
+    - DOMAIN-SUFFIX,dl.google.com
+    - DOMAIN-SUFFIX,gstatic.com
+    - DOMAIN,fonts.googleapis.com
+    
 
 
-
-  # 字节
-    - DOMAIN-SUFFIX,byteoversea.com 
-    - DOMAIN-SUFFIX,byteintlapi.com
-    - DOMAIN-SUFFIX,bytednsdoc.com
-
+ 
 
   # 新域名
     - DOMAIN-SUFFIX,microsoft

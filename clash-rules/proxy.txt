@@ -5,19 +5,15 @@ payload:
     - DOMAIN-SUFFIX,github.io
     - DOMAIN-SUFFIX,githubusercontent.com
     - DOMAIN-SUFFIX,githubassets.com
-    - DOMAIN-SUFFIX,stackoverflow.com
-    - DOMAIN-SUFFIX,jsdelivr.net
+    #- DOMAIN-SUFFIX,stackoverflow.com
+    #- DOMAIN-SUFFIX,jsdelivr.net
     - DOMAIN-SUFFIX,copilot.microsoft.com
     - DOMAIN-SUFFIX,sentry.io
-    - DOMAIN-SUFFIX,npmjs.com
-    - DOMAIN-SUFFIX,nuget.org
-    - DOMAIN-SUFFIX,nuget.net
-    - DOMAIN-SUFFIX,nuget.com
-    - DOMAIN-SUFFIX,google.com
-    - DOMAIN-SUFFIX,gmail.com
-    - DOMAIN-SUFFIX,x.com
-    - DOMAIN-SUFFIX,tweeter.com
-    - DOMAIN-SUFFIX,facebook.com
+    #- DOMAIN-SUFFIX,npmjs.com
+    #- DOMAIN-SUFFIX,nuget.org
+    #- DOMAIN-SUFFIX,nuget.net
+    #- DOMAIN-SUFFIX,nuget.com
+ 
 
 
 
