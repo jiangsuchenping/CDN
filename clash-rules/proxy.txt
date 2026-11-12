@@ -24,6 +24,7 @@ payload:
     - DOMAIN-SUFFIX,linux.do
     - DOMAIN-SUFFIX,twimg.com
     - DOMAIN-SUFFIX,meta.com
+    - DOMAIN-SUFFIX,cloudflare.com
 
 
  
