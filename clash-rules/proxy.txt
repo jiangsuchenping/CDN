@@ -14,8 +14,12 @@ payload:
     - DOMAIN-SUFFIX,nuget.net
     - DOMAIN-SUFFIX,nuget.com
  
-    - GEOSITE,google@!cn
+
     - GEOSITE,tweeter
     - GEOSITE,facebook
     - GEOSITE,x
+
+    - DOMAIN-SUFFIX,google.com
+    - DOMAIN-SUFFIX,gmail.com
+    
     
