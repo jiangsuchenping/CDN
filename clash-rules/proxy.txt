@@ -21,12 +21,9 @@ payload:
     - DOMAIN-SUFFIX,nuget.com
     - DOMAIN-SUFFIX,ldstatic.com
     - DOMAIN-SUFFIX,linux.do
+    - DOMAIN-SUFFIX,twimg.com
 
 
-
-
-    - GEOSITE,geolocation-!cn
- 
  
 
     
