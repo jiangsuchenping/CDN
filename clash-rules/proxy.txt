@@ -13,11 +13,15 @@ payload:
     #- DOMAIN-SUFFIX,nuget.org
     #- DOMAIN-SUFFIX,nuget.net
     #- DOMAIN-SUFFIX,nuget.com
+     - DOMAIN-SUFFIX,linux.do
+     
  
     - GEOSITE,tweeter
     - GEOSITE,facebook
     - GEOSITE,youtube
     - GEOSITE,x
+
+
 
 
 
