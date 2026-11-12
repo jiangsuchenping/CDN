@@ -38,6 +38,9 @@ payload:
     - DOMAIN-SUFFIX,gstatic.com
     - DOMAIN,fonts.googleapis.com
 
+    - DOMAIN-SUFFIX,digicert.com
+    
+
 
 
  

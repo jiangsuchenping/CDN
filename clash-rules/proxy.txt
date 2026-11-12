@@ -5,7 +5,7 @@ payload:
     - GEOSITE,facebook
     - GEOSITE,youtube
     - GEOSITE,x
-    
+
     - DOMAIN-SUFFIX,github.com
     - DOMAIN-SUFFIX,github.io
     - DOMAIN-SUFFIX,githubusercontent.com
@@ -20,6 +20,8 @@ payload:
     - DOMAIN-SUFFIX,nuget.com
     - DOMAIN-SUFFIX,linux.do
     - DOMAIN-SUFFIX,ldstatic.com
+    
+    - GEOSITE,geolocation-!cn
 
  
     
