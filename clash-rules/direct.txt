@@ -12,7 +12,7 @@ payload:
     - DOMAIN-SUFFIX,network
     - DOMAIN-SUFFIX,google
     - DOMAIN-SUFFIX,microsoft
-    
+
   # 微软
     - GEOSITE,OneDrive
     - GEOSITE,microsoft
@@ -36,6 +36,7 @@ payload:
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,mtalk.google.com
     - DOMAIN-SUFFIX,rumt-zh.com
+    - DOMAIN-SUFFIX,digicert.com
 
     
 
