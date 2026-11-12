@@ -20,6 +20,8 @@ payload:
     - DOMAIN-SUFFIX,nuget.com
     - DOMAIN-SUFFIX,linux.do
     - DOMAIN-SUFFIX,ldstatic.com
+    - DOMAIN-SUFFIX,accounts.google.com
+    - DOMAIN,www.google.com
     
   
     
