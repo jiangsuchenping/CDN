@@ -26,3 +26,6 @@ payload:
   # 特殊站点
     - DOMAIN-SUFFIX,51job.com
     - DOMAIN-SUFFIX,51jobcdn.com
+    - DOMAIN-SUFFIX,taobao.com
+    - DOMAIN-SUFFIX,jd.com
+    
