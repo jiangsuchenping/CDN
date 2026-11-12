@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.18",
+  "released": "2026-11-12T05:39:37+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "新增「失焦后保持窗口」可选开关：默认关闭，勾选后失焦不隐藏；不影响启动后收起、Esc、热键与报告页"
+  ],
+  "file": "QuickStart-0.2.18-win64.qsp",
+  "size": 5792768,
+  "sha256": "cad2b479871b4ed3f4731b115ae8eaf869e46af1cff961b6bcae94dea7cca928"
+}
