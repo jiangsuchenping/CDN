@@ -43,6 +43,7 @@ payload:
     - DOMAIN-SUFFIX,googleapis.com
     - DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,twimg.com
+    - DOMAIN-SUFFIX,adtidy.org
 
     
 
