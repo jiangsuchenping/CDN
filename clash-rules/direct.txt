@@ -7,6 +7,9 @@ payload:
   # 鑫磊
     - DOMAIN-SUFFIX,shinsoft.net
     - DOMAIN-SUFFIX,e-medicine.cn
+
+  #
+    - DOMAIN-SUFFIX,autorefresh.io
  
   # 
     - GEOSITE apple-cn
@@ -34,7 +37,7 @@ payload:
     - DOMAIN-SUFFIX,dl.google.com
     - DOMAIN-SUFFIX,gstatic.com
     - DOMAIN,fonts.googleapis.com
-    
+
 
 
  
