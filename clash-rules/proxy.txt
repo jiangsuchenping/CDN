@@ -15,6 +15,12 @@ payload:
     - DOMAIN-SUFFIX,nuget.com
     - DOMAIN-SUFFIX,ldstatic.com
     - DOMAIN-SUFFIX,linux.do
+
+    - GEOSITE,x
+    - GEOSITE,tweeter
+    - GEOSITE,facebook
+    - GEOSITE,yahoo
+    - GEOSITE,youtube
   
     
 
