@@ -15,6 +15,9 @@ payload:
     - DOMAIN-SUFFIX,nuget.com
 
 
+  # 兜底
+    - GEOSITE,geogeolocation-!cn
+
 
    
 

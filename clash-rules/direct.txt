@@ -41,6 +41,6 @@ payload:
 
   # 局域网或国内兜底
     - GEOSITE,cn
-    - GEOIP,LAN
-    - GEOIP,CN
+    - GEOIP,LAN,no-resolve
+    - GEOIP,CN,no-resolve
 
