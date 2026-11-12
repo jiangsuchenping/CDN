@@ -21,6 +21,9 @@ payload:
     - GEOSITE,facebook
     - GEOSITE,yahoo
     - GEOSITE,youtube
+    - GEOSITE,google
+    - GEOSITE,gmail
+    
   
     
 
