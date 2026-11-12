@@ -8,6 +8,11 @@ payload:
     - DOMAIN-SUFFIX,shinsoft.net
     - DOMAIN-SUFFIX,e-medicine.cn
  
+  # 
+    - GEOSITE apple-cn
+    - GEOSITE icloud-cn
+    - GEOSITE microsoft-cn
+    - GEOSITE google-cn
 
   # 微软
     - GEOSITE,OneDrive
