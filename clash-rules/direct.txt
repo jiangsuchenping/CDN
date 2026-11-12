@@ -28,6 +28,7 @@ payload:
 
 
     - DOMAIN-SUFFIX,autorefresh.io
+    - DOMAIN-SUFFIX,adblockplus.org
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,mtalk.google.com
     - DOMAIN-SUFFIX,rumt-zh.com
