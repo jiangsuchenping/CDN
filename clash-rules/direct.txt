@@ -7,15 +7,7 @@ payload:
   # 鑫磊
     - DOMAIN-SUFFIX,shinsoft.net
     - DOMAIN-SUFFIX,e-medicine.cn
-
-  #
-    - DOMAIN-SUFFIX,autorefresh.io
  
-  # 
-    - GEOSITE apple-cn
-    - GEOSITE icloud-cn
-    - GEOSITE microsoft-cn
-    - GEOSITE google-cn
 
   # 微软
     - GEOSITE,OneDrive
@@ -34,21 +26,17 @@ payload:
     - DOMAIN-SUFFIX,edge.microsoft.com
     - DOMAIN-SUFFIX,substrate.office.com
     
-    - DOMAIN-SUFFIX,dl.google.com
-    - DOMAIN-SUFFIX,gstatic.com
-    - DOMAIN,fonts.googleapis.com
-    - DOMAIN,mtalk.google.com
-
-    - DOMAIN-SUFFIX,digicert.com
-
-
-
-
+ 
  
 
-  # 新域名
-    - DOMAIN-SUFFIX,microsoft
-    - DOMAIN-SUFFIX,google
+
+
+
+
+
+
+
+
 
 
  
