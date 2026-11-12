@@ -29,7 +29,9 @@ payload:
 
     - DOMAIN-SUFFIX,autorefresh.io
     - DOMAIN-SUFFIX,byteintlapi.com
+    - DOMAIN-SUFFIX,mtalk.google.com
     
+
     
  
  
