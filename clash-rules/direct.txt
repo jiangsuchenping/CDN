@@ -37,8 +37,7 @@ payload:
     - DOMAIN-SUFFIX,mtalk.google.com
     - DOMAIN-SUFFIX,rumt-zh.com
     - DOMAIN-SUFFIX,digicert.com
-    - DOMAIN-SUFFIX,clients4.google.com
-    - DOMAIN-SUFFIX,clients6.google.com
+    - DOMAIN-REGEX,^clients[0-9]+\.google\.com$
     - DOMAIN-SUFFIX,gstatic.com
     - DOMAIN-SUFFIX,googleapis.com
     - DOMAIN-SUFFIX,cloudflare.com
