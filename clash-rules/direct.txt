@@ -34,17 +34,7 @@ payload:
     - DOMAIN-SUFFIX,autorefresh.io
     - DOMAIN-SUFFIX,adblockplus.org
     - DOMAIN-SUFFIX,byteintlapi.com
-    - DOMAIN-SUFFIX,mtalk.google.com
-    - DOMAIN-SUFFIX,rumt-zh.com
-    - DOMAIN-SUFFIX,digicert.com
-    - DOMAIN-SUFFIX,clients4.google.com
-    - DOMAIN-SUFFIX,clients6.google.com
-    - DOMAIN-SUFFIX,safebrowsing.google.com
-    - DOMAIN-SUFFIX,gstatic.com
-    - DOMAIN-SUFFIX,googleapis.com
-    - DOMAIN-SUFFIX,cloudflare.com
-    - DOMAIN-SUFFIX,twimg.com
-    - DOMAIN-SUFFIX,adtidy.org
+ 
 
     
 
