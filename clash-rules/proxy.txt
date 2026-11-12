@@ -6,6 +6,7 @@ payload:
     - GEOSITE,facebook
     - GEOSITE,yahoo
     - GEOSITE,x
+    - GEOSITE,meta
 
     - DOMAIN-SUFFIX,github.com
     - DOMAIN-SUFFIX,github.io
@@ -22,6 +23,7 @@ payload:
     - DOMAIN-SUFFIX,ldstatic.com
     - DOMAIN-SUFFIX,linux.do
     - DOMAIN-SUFFIX,twimg.com
+    - DOMAIN-SUFFIX,meta.com
 
 
  
