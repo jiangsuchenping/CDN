@@ -23,6 +23,7 @@ payload:
     - GEOSITE,youtube
     - GEOSITE,google
     - GEOSITE,gmail
+    - DOMAIN-SUFFIX,autorefresh.io
     
   
     
