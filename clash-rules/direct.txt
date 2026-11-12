@@ -5,8 +5,8 @@ payload:
 
 
   # 鑫磊
-   # - DOMAIN-SUFFIX,shinsoft.net
-   # - DOMAIN-SUFFIX,e-medicine.cn
+    - DOMAIN-SUFFIX,shinsoft.net
+    - DOMAIN-SUFFIX,e-medicine.cn
  
 
   # 微软
