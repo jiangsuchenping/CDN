@@ -8,7 +8,7 @@ payload:
     - DOMAIN-SUFFIX,shinsoft.net
     - DOMAIN-SUFFIX,e-medicine.cn
  
-  # 域名
+  # 新域名
     - DOMAIN-SUFFIX,network
     - DOMAIN-SUFFIX,google
     - DOMAIN-SUFFIX,microsoft
@@ -34,6 +34,8 @@ payload:
     - DOMAIN-SUFFIX,autorefresh.io
     - DOMAIN-SUFFIX,adblockplus.org
     - DOMAIN-SUFFIX,byteintlapi.com
+
+    - DOMAIN-SUFFIX,cloudflare.com
     
    
 
