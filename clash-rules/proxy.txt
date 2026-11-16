@@ -7,7 +7,7 @@ payload:
     - GEOSITE,x
     - GEOSITE,meta
     - GEOSITE,chatgpt
-    - GEOSITE,google@!cn
+    - GEOSITE,google-!cn
       
     - DOMAIN-SUFFIX,github.com
     - DOMAIN-SUFFIX,github.io
