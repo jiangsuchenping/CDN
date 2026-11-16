@@ -2,7 +2,7 @@ payload:
   # private
     - GEOSITE,private 
     - GEOIP,private,no-resolve
-
+ 
 
   # 鑫磊
     - DOMAIN-SUFFIX,shinsoft.net
@@ -35,24 +35,7 @@ payload:
     - DOMAIN-SUFFIX,adblockplus.org
     - DOMAIN-SUFFIX,byteintlapi.com
     
- 
-
-    
-
-
-    
- 
- 
-
-
-
-
-
-
-
-
-
-
+   
 
 
 

@@ -7,6 +7,8 @@ payload:
     - GEOSITE,yahoo
     - GEOSITE,x
     - GEOSITE,meta
+    - GEOSITE,chatgpt
+    - GEOSITE,cloudflare
     - GEOSITE,bytedance-ai-!cn
     - GEOSITE,category-ai-!cn
     - GEOSITE,category-ai-chat-!cn
@@ -34,8 +36,7 @@ payload:
     - DOMAIN-SUFFIX,linux.do
     - DOMAIN-SUFFIX,twimg.com
     - DOMAIN-SUFFIX,meta.com
-    - DOMAIN-SUFFIX,cloudflare.com
-    - DOMAIN-SUFFIX,chatgpt.com
+  
 
 
 
