@@ -26,6 +26,8 @@ payload:
     - DOMAIN-SUFFIX,hotmail.com
     - DOMAIN-SUFFIX,edge.microsoft.com
     - DOMAIN-SUFFIX,substrate.office.com
+
+    - DOMAIN-SUFFIX,autorefresh.io
  
  
     
