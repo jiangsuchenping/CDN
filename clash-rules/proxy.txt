@@ -7,7 +7,7 @@ payload:
     - GEOSITE,x
     - GEOSITE,meta
     - GEOSITE,chatgpt
-    - GEOSITE,google-!cn
+ 
       
     - DOMAIN-SUFFIX,github.com
     - DOMAIN-SUFFIX,github.io
@@ -25,36 +25,13 @@ payload:
     - DOMAIN-SUFFIX,linux.do
     - DOMAIN-SUFFIX,twimg.com
     - DOMAIN-SUFFIX,meta.com
-    - DOMAIN-SUFFIX,clients4.google.com
-    - DOMAIN-SUFFIX,clients6.google.com
+    - DOMAIN-SUFFIX,google.com
     - DOMAIN-SUFFIX,mail.google.com
     - DOMAIN-SUFFIX,gmail.com
     - DOMAIN-SUFFIX,gstatic.com
     - DOMAIN-SUFFIX,googleapis.com:
-
-
-
-
-    - DOMAIN,mtalk.google.com
-    - DOMAIN,accounts.google.com
-    - DOMAIN,www.google.com
-
-
  
-
-
-
-
-
-    - DOMAIN-SUFFIX,7777793.xyz
-    - DOMAIN-SUFFIX,v2ex.com
-  
-
-
-
- 
-
-    
+   
  
     
 
