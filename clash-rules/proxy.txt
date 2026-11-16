@@ -1,25 +1,13 @@
 payload: 
   # 技术学习需要
-    - GEOSITE,github  
-    - GEOSITE,google
+    - GEOSITE,github   
     - GEOSITE,tweeter
     - GEOSITE,facebook
     - GEOSITE,yahoo
     - GEOSITE,x
     - GEOSITE,meta
     - GEOSITE,chatgpt
-    - GEOSITE,cloudflare
-    - GEOSITE,bytedance-ai-!cn
-    - GEOSITE,category-ai-!cn
-    - GEOSITE,category-ai-chat-!cn
-    - GEOSITE,category-browser-!cn
-    - GEOSITE,category-cdn-!cn
-    - GEOSITE,category-games-!cn
-    - GEOSITE,category-netdisk-!cn
-    - GEOSITE,category-scholar-!cn
-    - GEOSITE,category-social-media-!cn
-
-
+      
     - DOMAIN-SUFFIX,github.com
     - DOMAIN-SUFFIX,github.io
     - DOMAIN-SUFFIX,githubusercontent.com
