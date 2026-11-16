@@ -25,7 +25,7 @@ payload:
     - DOMAIN-SUFFIX,twimg.com
     - DOMAIN-SUFFIX,meta.com
     - DOMAIN-SUFFIX,cloudflare.com
-    - DOMAIN-SUFFIX,qoder.sh
+
 
 
  
