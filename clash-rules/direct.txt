@@ -28,6 +28,11 @@ payload:
     - DOMAIN-SUFFIX,substrate.office.com
 
     - DOMAIN-SUFFIX,autorefresh.io
+    - DOMAIN-SUFFIX,byteintlapi.com
+    - DOMAIN-SUFFIX,bytednsdoc.com
+    - DOMAIN-SUFFIX,byteoversea.com
+    - DOMAIN-SUFFIX,adblockplus.org
+
  
  
     
