@@ -28,7 +28,9 @@ payload:
     - DOMAIN-SUFFIX,clients4.google.com
     - DOMAIN-SUFFIX,clients6.google.com
     - DOMAIN-SUFFIX,mail.google.com
+    - DOMAIN-SUFFIX,gmail.com
     
+
 
 
     - DOMAIN,mtalk.google.com

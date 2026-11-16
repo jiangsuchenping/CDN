@@ -9,6 +9,8 @@ payload:
     - DOMAIN-SUFFIX,sexy
     - DOMAIN-SUFFIX,adult
 
+    - DOMAIN-SUFFIX,scorecardresearch.com
+
     - GEOSITE,36kr@ads
     - GEOSITE,adjust@ads
     - GEOSITE,baidu@ads
