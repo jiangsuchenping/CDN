@@ -25,11 +25,13 @@ payload:
     - DOMAIN-SUFFIX,linux.do
     - DOMAIN-SUFFIX,twimg.com
     - DOMAIN-SUFFIX,meta.com
+    - DOMAIN-SUFFIX,clients4.google.com
+    - DOMAIN-SUFFIX,clients6.google.com
 
 
     - DOMAIN,mtalk.google.com
     - DOMAIN,accounts.google.com
-    
+
  
 
 
