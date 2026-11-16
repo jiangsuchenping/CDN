@@ -31,7 +31,10 @@ payload:
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,bytednsdoc.com
     - DOMAIN-SUFFIX,byteoversea.com
+    - DOMAIN-SUFFIX,tiktok-row.net
     - DOMAIN-SUFFIX,adblockplus.org
+    - DOMAIN-SUFFIX,rumt-zh.com
+
 
  
  
