@@ -30,6 +30,7 @@ payload:
     - DOMAIN-SUFFIX,mail.google.com
     - DOMAIN-SUFFIX,gmail.com
     - DOMAIN-SUFFIX,gstatic.com
+    - DOMAIN-SUFFIX,googleapis.com:
 
 
 
