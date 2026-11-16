@@ -29,12 +29,15 @@ payload:
     - DOMAIN-SUFFIX,clients6.google.com
     - DOMAIN-SUFFIX,mail.google.com
     - DOMAIN-SUFFIX,gmail.com
-    
+    - DOMAIN-SUFFIX,gstatic.com
+
 
 
 
     - DOMAIN,mtalk.google.com
     - DOMAIN,accounts.google.com
+    - DOMAIN,www.google.com
+
 
  
 
