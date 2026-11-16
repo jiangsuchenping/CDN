@@ -7,6 +7,17 @@ payload:
     - GEOSITE,yahoo
     - GEOSITE,x
     - GEOSITE,meta
+    - GEOSITE,bytedance-ai-!cn
+    - GEOSITE,category-ai-!cn
+    - GEOSITE,category-ai-chat-!cn
+    - GEOSITE,category-browser-!cn
+    - GEOSITE,category-cdn-!cn
+    - GEOSITE,category-games-!cn
+    - GEOSITE,category-netdisk-!cn
+    - GEOSITE,category-scholar-!cn
+    - GEOSITE,category-social-media-!cn
+    - GEOSITE,geolocation-!cn
+    - GEOSITE,tld-!cn
 
     - DOMAIN-SUFFIX,github.com
     - DOMAIN-SUFFIX,github.io

@@ -8,3 +8,56 @@ payload:
     - DOMAIN-SUFFIX,xxx
     - DOMAIN-SUFFIX,sexy
     - DOMAIN-SUFFIX,adult
+
+    - GEOSITE,36kr@ads
+    - GEOSITE,adjust@ads
+    - GEOSITE,baidu@ads
+    - GEOSITE,carrotquest@ads
+    - GEOSITE,category-ads@ads
+    - GEOSITE,category-ads-all@ads
+    - GEOSITE,category-httpdns-cn@ads
+    - GEOSITE,category-ru@ads
+    - GEOSITE,cctv@ads
+    - GEOSITE,clearbit@ads
+    - GEOSITE,dmm@ads
+    - GEOSITE,facebook@ads
+    - GEOSITE,fqnovel@ads
+    - GEOSITE,gamersky@ads
+    - GEOSITE,hunantv@ads
+    - GEOSITE,instagram@ads
+    - GEOSITE,kuaishou@ads
+    - GEOSITE,kugou@ads
+    - GEOSITE,le@ads
+    - GEOSITE,mailru-group@ads
+    - GEOSITE,mindbox@ads
+    - GEOSITE,moji@ads
+    - GEOSITE,mozilla@ads
+    - GEOSITE,mts-ru@ads
+    - GEOSITE,nicegram@ads
+    - GEOSITE,ogury@ads
+    - GEOSITE,ookla-speedtest@ads
+    - GEOSITE,openx@ads
+    - GEOSITE,ozon@ads
+    - GEOSITE,picacg@ads
+    - GEOSITE,pixiv@ads
+    - GEOSITE,qihoo360@ads
+    - GEOSITE,sber@ads
+    - GEOSITE,sberbank@ads
+    - GEOSITE,segment@ads
+    - GEOSITE,snap@ads
+    - GEOSITE,sogou@ads
+    - GEOSITE,sohu@ads
+    - GEOSITE,spotify@ads
+    - GEOSITE,supersonic@ads
+    - GEOSITE,tcl@ads
+    - GEOSITE,tencent-tme@ads
+    - GEOSITE,tendcloud@ads
+    - GEOSITE,twitter@ads
+    - GEOSITE,uc@ads
+    - GEOSITE,umeng@ads
+    - GEOSITE,unitychina@ads
+    - GEOSITE,vk@ads
+    - GEOSITE,wildberries@ads
+    - GEOSITE,x5@ads
+    - GEOSITE,ximalaya@ads
+    - GEOSITE,zuoyebang@ads
