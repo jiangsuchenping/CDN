@@ -34,6 +34,11 @@ payload:
     - DOMAIN-SUFFIX,chatgpt.com
     - DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,openai.com
+
+
+
+
+    - DOMAIN-SUFFIX,7777793.xyz
  
    
  
