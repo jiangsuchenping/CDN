@@ -16,8 +16,7 @@ payload:
     - GEOSITE,category-netdisk-!cn
     - GEOSITE,category-scholar-!cn
     - GEOSITE,category-social-media-!cn
-    - GEOSITE,geolocation-!cn
-    - GEOSITE,tld-!cn
+
 
     - DOMAIN-SUFFIX,github.com
     - DOMAIN-SUFFIX,github.io
