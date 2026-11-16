@@ -1,4 +1,10 @@
 payload: 
+  # 顶级域名
+    - DOMAIN-SUFFIX,hk
+    - DOMAIN-SUFFIX,us
+    - DOMAIN-SUFFIX,uk
+    - DOMAIN-SUFFIX,jp
+
   # 技术学习需要
     - GEOSITE,github   
     - GEOSITE,tweeter
@@ -39,6 +45,8 @@ payload:
 
 
     - DOMAIN-SUFFIX,7777793.xyz
+    - DOMAIN-SUFFIX,digicert.com
+
  
    
  
