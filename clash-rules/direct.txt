@@ -43,6 +43,7 @@ payload:
     - DOMAIN-SUFFIX,rumt-zh.com
     - DOMAIN-SUFFIX,stripe.com
     - DOMAIN-SUFFIX,cloudflare.com
+    - DOMAIN-SUFFIX,cloudflare.net
 
 
 
