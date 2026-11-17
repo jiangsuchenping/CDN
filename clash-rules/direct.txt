@@ -6,6 +6,9 @@ payload:
  # 域名
     - DOMAIN-SUFFIX,dev
     - DOMAIN-SUFFIX,cn
+    - DOMAIN-SUFFIX,microsoft
+    - DOMAIN-SUFFIX,google
+    
 
   # 鑫磊
     - DOMAIN-SUFFIX,shinsoft.net

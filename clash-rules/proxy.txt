@@ -4,6 +4,11 @@ payload:
     - DOMAIN-SUFFIX,us
     - DOMAIN-SUFFIX,uk
     - DOMAIN-SUFFIX,jp
+    - DOMAIN-SUFFIX,au
+    - DOMAIN-SUFFIX,ru
+    - DOMAIN-SUFFIX,de
+    - DOMAIN-SUFFIX,fr
+    
 
   # 技术学习需要
     - GEOSITE,github   
