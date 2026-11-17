@@ -3,6 +3,8 @@ payload:
     - GEOSITE,private 
     - GEOIP,private,no-resolve
  
+ # 域名
+    - DOMAIN-SUFFIX,dev
 
   # 鑫磊
     - DOMAIN-SUFFIX,shinsoft.net
