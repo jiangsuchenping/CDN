@@ -38,7 +38,7 @@ payload:
     - DOMAIN-SUFFIX,gstatic.com
     - DOMAIN-SUFFIX,googleapis.com
     - DOMAIN-SUFFIX,chatgpt.com
-    - DOMAIN-SUFFIX,cloudflare.com
+    #- DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,openai.com
 
 
