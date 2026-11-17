@@ -8,7 +8,8 @@ payload:
     - DOMAIN-SUFFIX,cn
     - DOMAIN-SUFFIX,microsoft
     - DOMAIN-SUFFIX,google
-    
+    - DOMAIN-SUFFIX,sh
+
 
   # 鑫磊
     - DOMAIN-SUFFIX,shinsoft.net
