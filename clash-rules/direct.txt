@@ -29,7 +29,8 @@ payload:
     - DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,byteintlapi.com
 
-
+  # 
+    - DOMAIN-SUFFIX,io
 
   # 局域网或国内兜底
     - GEOSITE,cn
