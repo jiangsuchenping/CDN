@@ -8,5 +8,8 @@ payload:
     - GEOSITE,meta
     - GEOSITE,chatgpt
 
+  # 
+    - DOMAIN-SUFFIX,linux.do
+
        
  
