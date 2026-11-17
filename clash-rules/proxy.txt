@@ -7,5 +7,8 @@ payload:
     - GEOSITE,x
     - GEOSITE,meta
     - GEOSITE,chatgpt
+    - GEOSITE,google
+    - GEOSITE,microsoft
+    - GEOSITE,cloudflare
        
  
