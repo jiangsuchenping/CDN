@@ -23,6 +23,7 @@ payload:
     - DOMAIN-SUFFIX,accounts.google.com
     - DOMAIN-SUFFIX,l.google.com
     - DOMAIN-SUFFIX,googleapis.com
+    - DOMAIN-SUFFIX,digicert.com
 
 
 
