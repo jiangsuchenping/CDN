@@ -10,6 +10,8 @@ payload:
     - DOMAIN-SUFFIX,adult
 
     - DOMAIN-SUFFIX,scorecardresearch.com
+    - DOMAIN-SUFFIX,stripe.com
+    - DOMAIN-SUFFIX,stripe.network
 
     - GEOSITE,36kr@ads
     - GEOSITE,adjust@ads
