@@ -11,6 +11,7 @@ payload:
   # 
     - DOMAIN-SUFFIX,linux.do
     - DOMAIN-SUFFIX,mail.google.com
+    - DOMAIN-SUFFIX,mtalk.google.com
     - DOMAIN-SUFFIX,x.com
 
        
