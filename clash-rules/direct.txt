@@ -44,6 +44,8 @@ payload:
     - DOMAIN-SUFFIX,stripe.com
     - DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,cloudflare.net
+    - DOMAIN-SUFFIX,awsstatic.com
+    - DOMAIN-SUFFIX,gstatic.com
 
 
 
