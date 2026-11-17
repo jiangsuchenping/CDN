@@ -29,8 +29,12 @@ payload:
     - DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,byteintlapi.com
 
-  # 
+  # 直连域名
     - DOMAIN-SUFFIX,io
+    - DOMAIN-SUFFIX,dev
+    - DOMAIN-SUFFIX,google
+    - DOMAIN-SUFFIX,microsoft
+    - DOMAIN-SUFFIX,sh
 
   # 局域网或国内兜底
     - GEOSITE,cn
