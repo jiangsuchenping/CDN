@@ -46,22 +46,4 @@ payload:
 
     - DOMAIN-SUFFIX,7777793.xyz
     - DOMAIN-SUFFIX,digicert.com
-
-
-    - GEOSITE,!cn
-    - GEOIP,!cn,no-resolve
-
  
-   
- 
-    
-
-  
-    
-
-
-
-
-
-
-    
