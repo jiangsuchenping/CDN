@@ -15,7 +15,7 @@ payload:
     - DOMAIN-SUFFIX,googlemail.com
     - DOMAIN-SUFFIX,mtalk.google.com
     - DOMAIN-SUFFIX,x.com
-    - DOMAIN-REGEX,client[0-9].google.com
+    - DOMAIN-REGEX,^client[0-9].google.com$
 
        
  
