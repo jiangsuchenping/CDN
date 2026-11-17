@@ -1,15 +1,4 @@
 payload: 
-  # 顶级域名
-    - DOMAIN-SUFFIX,hk
-    - DOMAIN-SUFFIX,us
-    - DOMAIN-SUFFIX,uk
-    - DOMAIN-SUFFIX,jp
-    - DOMAIN-SUFFIX,au
-    - DOMAIN-SUFFIX,ru
-    - DOMAIN-SUFFIX,de
-    - DOMAIN-SUFFIX,fr
-
-
   # 技术学习需要
     - GEOSITE,github   
     - GEOSITE,tweeter
@@ -18,29 +7,5 @@ payload:
     - GEOSITE,x
     - GEOSITE,meta
     - GEOSITE,chatgpt
-   
- 
-      
-    - DOMAIN-SUFFIX,github.com
-    - DOMAIN-SUFFIX,github.io
-    - DOMAIN-SUFFIX,githubusercontent.com
-    - DOMAIN-SUFFIX,githubassets.com
-    - DOMAIN-SUFFIX,stackoverflow.com
-    - DOMAIN-SUFFIX,jsdelivr.net
-    - DOMAIN-SUFFIX,copilot.microsoft.com
-    - DOMAIN-SUFFIX,sentry.io
-    - DOMAIN-SUFFIX,npmjs.com
-    - DOMAIN-SUFFIX,nuget.org
-    - DOMAIN-SUFFIX,nuget.net
-    - DOMAIN-SUFFIX,nuget.com
-    - DOMAIN-SUFFIX,ldstatic.com
-    - DOMAIN-SUFFIX,linux.do
-    - DOMAIN-SUFFIX,twimg.com
-    - DOMAIN-SUFFIX,meta.com
-    - DOMAIN-SUFFIX,google.com
-    - DOMAIN-SUFFIX,mail.google.com
-    - DOMAIN-SUFFIX,gmail.com   
-    - DOMAIN-SUFFIX,googleapis.com
-    - DOMAIN-SUFFIX,chatgpt.com
-    - DOMAIN-SUFFIX,openai.com
+       
  

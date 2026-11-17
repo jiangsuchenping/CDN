@@ -7,8 +7,6 @@ payload:
     - DOMAIN-SUFFIX,shinsoft.net
     - DOMAIN-SUFFIX,e-medicine.cn
  
-
-  
   # 局域网或国内兜底
     - GEOSITE,cn
     - GEOIP,LAN,no-resolve
