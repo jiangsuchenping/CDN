@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.19",
+  "released": "2026-11-17T07:28:12+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "设置面板显示唤起热键的注册状态：注册成功显示「已生效」，被其他程序占用显示「被占用」并给出换档提示；纯只读展示，不改变热键注册与唤起逻辑，不写入磁盘"
+  ],
+  "file": "QuickStart-0.2.19-win64.qsp",
+  "size": 5802496,
+  "sha256": "188c9ccf3cfe35ed85f40fa65b921594c3385ad70f995dc56462cc164a60d214"
+}
