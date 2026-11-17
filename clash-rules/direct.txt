@@ -42,6 +42,7 @@ payload:
     - DOMAIN-SUFFIX,adblockplus.org
     - DOMAIN-SUFFIX,rumt-zh.com
     - DOMAIN-SUFFIX,stripe.com
+    - DOMAIN-SUFFIX,cloudflare.com
 
 
 
