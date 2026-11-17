@@ -29,6 +29,7 @@ payload:
     - DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,adblockplus.org
+    - DOMAIN-SUFFIX,rumt-zh.com
 
   # 直连域名
     - DOMAIN-SUFFIX,io
