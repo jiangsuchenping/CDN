@@ -34,6 +34,7 @@ payload:
     - DOMAIN-SUFFIX,tiktok-row.net
     - DOMAIN-SUFFIX,adblockplus.org
     - DOMAIN-SUFFIX,rumt-zh.com
+    - DOMAIN-SUFFIX,stripe.com
 
 
 
