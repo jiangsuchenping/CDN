@@ -26,8 +26,9 @@ payload:
 
 
     - DOMAIN-SUFFIX,gstatic.com
-    - DOMAIN,time.cloudflare.com
-    
+    - DOMAIN-SUFFIX,cloudflare.com
+    - DOMAIN-SUFFIX,byteintlapi.com
+
 
 
   # 局域网或国内兜底
