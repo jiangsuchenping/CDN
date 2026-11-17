@@ -36,6 +36,13 @@ payload:
     - DOMAIN-SUFFIX,rumt-zh.com
 
 
+
+
+
+  # 进程
+    - PROCESS-PATH,C:\Windows\System32\svchost.exe
+
+
  
  
     
