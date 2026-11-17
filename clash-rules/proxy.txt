@@ -25,6 +25,8 @@ payload:
     - DOMAIN-SUFFIX,googleapis.com
     - DOMAIN-SUFFIX,digicert.com
     - DOMAIN-SUFFIX,tiktok-row.net
+    - DOMAIN-SUFFIX,jsdelivr.net
+    -
 
 
 
