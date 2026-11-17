@@ -8,7 +8,7 @@ payload:
     - DOMAIN-SUFFIX,ru
     - DOMAIN-SUFFIX,de
     - DOMAIN-SUFFIX,fr
-    
+
 
   # 技术学习需要
     - GEOSITE,github   
@@ -18,7 +18,7 @@ payload:
     - GEOSITE,x
     - GEOSITE,meta
     - GEOSITE,chatgpt
-    - GEOSITE,google
+   
  
       
     - DOMAIN-SUFFIX,github.com
@@ -39,11 +39,9 @@ payload:
     - DOMAIN-SUFFIX,meta.com
     - DOMAIN-SUFFIX,google.com
     - DOMAIN-SUFFIX,mail.google.com
-    - DOMAIN-SUFFIX,gmail.com
-    - DOMAIN-SUFFIX,gstatic.com
+    - DOMAIN-SUFFIX,gmail.com   
     - DOMAIN-SUFFIX,googleapis.com
     - DOMAIN-SUFFIX,chatgpt.com
-    #- DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,openai.com
 
 
