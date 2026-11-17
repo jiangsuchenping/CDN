@@ -24,7 +24,10 @@ payload:
     - DOMAIN-SUFFIX,edge.microsoft.com
     - DOMAIN-SUFFIX,substrate.office.com
 
-    
+
+    - DOMAIN-SUFFIX,gstatic.com
+
+
   # 局域网或国内兜底
     - GEOSITE,cn
     - GEOIP,LAN,no-resolve
