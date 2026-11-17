@@ -28,6 +28,7 @@ payload:
     - DOMAIN-SUFFIX,gstatic.com
     - DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,byteintlapi.com
+    - DOMAIN-SUFFIX,adblockplus.org
 
   # 直连域名
     - DOMAIN-SUFFIX,io
