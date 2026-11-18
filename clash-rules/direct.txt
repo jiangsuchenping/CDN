@@ -29,7 +29,9 @@ payload:
     - DOMAIN-SUFFIX,edge.microsoft.com
     - DOMAIN-SUFFIX,data.microsoft.com
     - DOMAIN-SUFFIX,bing.com
-    -
+    - DOMAIN-SUFFIX,live.com
+    - DOMAIN-SUFFIX,microsoft.com
+
 
   # 直连域名，如有无法访问，则移除并在proxy.txt单独指定，direct2.txt中再使用域名兜底
     - DOMAIN-SUFFIX,io
