@@ -25,8 +25,11 @@ payload:
     - DOMAIN-SUFFIX,office.com
     - DOMAIN-SUFFIX,office365.com
     - DOMAIN-SUFFIX,sharepoint.com
-    - DOMAIN-SUFFIX,microsoft.com
     - DOMAIN-SUFFIX,asp.net
+    - DOMAIN-SUFFIX,edge.microsoft.com
+    - DOMAIN-SUFFIX,data.microsoft.com
+    - DOMAIN-SUFFIX,bing.com
+    -
 
   # 直连域名，如有无法访问，则移除并在proxy.txt单独指定，direct2.txt中再使用域名兜底
     - DOMAIN-SUFFIX,io
