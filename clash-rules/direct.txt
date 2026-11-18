@@ -8,6 +8,7 @@ payload:
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe
     - PROCESS-PATH,C:\Windows\System32\svchost.exe
+    - PROCESS-PATH,C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe
     - GEOSITE,cn
     - GEOIP,LAN,no-resolve
     - GEOIP,CN,no-resolve
@@ -52,7 +53,7 @@ payload:
     - DOMAIN-SUFFIX,thunderbird.net
     - DOMAIN-SUFFIX,azure.net
     - DOMAIN-SUFFIX,azure.com
-    - DOMAIN-SUFFIX,azurefd.net
+ 
 
     - DOMAIN-SUFFIX,edge.microsoft.com
     - DOMAIN-SUFFIX,data.microsoft.com        
