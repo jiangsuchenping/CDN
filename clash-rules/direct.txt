@@ -48,6 +48,7 @@ payload:
     - DOMAIN-SUFFIX,bing.net
     - DOMAIN-SUFFIX,microsoft.com
     - DOMAIN-SUFFIX,microsoftonline.com
+    - DOMAIN-SUFFIX,cdn-apple.com
 
 
     - DOMAIN-SUFFIX,edge.microsoft.com
