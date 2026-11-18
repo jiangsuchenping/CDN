@@ -10,13 +10,11 @@ payload:
   
   # 微软
     - GEOSITE,OneDrive
-    - GEOSITE,microsoft@cn
     - GEOSITE,win-update
     - GEOSITE,apple-cn
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe
    
-
     - DOMAIN-SUFFIX,gstatic.com
     - DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,byteintlapi.com
@@ -24,6 +22,11 @@ payload:
     - DOMAIN-SUFFIX,rumt-zh.com
     - DOMAIN-SUFFIX,lencr.org
     - DOMAIN-SUFFIX,googleapis.com
+    - DOMAIN-SUFFIX,office.com
+    - DOMAIN-SUFFIX,office365.com
+    - DOMAIN-SUFFIX,sharepoint.com
+    - DOMAIN-SUFFIX,microsoft.com
+    - DOMAIN-SUFFIX,asp.net
 
   # 直连域名，如有无法访问，则移除并在proxy.txt单独指定，direct2.txt中再使用域名兜底
     - DOMAIN-SUFFIX,io
