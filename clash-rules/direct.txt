@@ -47,7 +47,6 @@ payload:
     - DOMAIN-SUFFIX,bing.com
     - DOMAIN-SUFFIX,live.com
     - DOMAIN-SUFFIX,bing.net
-    - DOMAIN-SUFFIX,microsoft.com
     - DOMAIN-SUFFIX,microsoftonline.com
     - DOMAIN-SUFFIX,cdn-apple.com
     - DOMAIN-SUFFIX,thunderbird.net
@@ -55,7 +54,7 @@ payload:
     - DOMAIN-SUFFIX,azure.com
     - DOMAIN-SUFFIX,msn.com
     - DOMAIN-SUFFIX,azurefd.net
-    - DOMAIN-SUFFIX,powerapps.com
+
  
 
     - DOMAIN-SUFFIX,edge.microsoft.com
