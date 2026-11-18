@@ -19,17 +19,19 @@ payload:
     - DOMAIN-SUFFIX,www.google.com
     - DOMAIN-SUFFIX,x.com
     - DOMAIN-SUFFIX,clients.google.com
-    - DOMAIN-SUFFIX,clients4.google.com
-    - DOMAIN-SUFFIX,clients6.google.com
+    #- DOMAIN-SUFFIX,clients4.google.com
+    #- DOMAIN-SUFFIX,clients6.google.com
     - DOMAIN-SUFFIX,contacts.google.com
     - DOMAIN-SUFFIX,accounts.google.com
     - DOMAIN-SUFFIX,safebrowsing.google.com
-    - DOMAIN-SUFFIX,l.google.com
-    - DOMAIN-SUFFIX,googleapis.com
+    - DOMAIN-SUFFIX,l.google.com    
+    - DOMAIN-SUFFIX,play.google.com
     - DOMAIN-SUFFIX,digicert.com
     - DOMAIN-SUFFIX,tiktok-row.net
     - DOMAIN-SUFFIX,jsdelivr.net
     - DOMAIN-SUFFIX,adtidy.org
+    - DOMAIN-REGEX,^gvt[0-9].com$
+    - DOMAIN-REGEX,^clients[0-9].google.com$
 
 
 
