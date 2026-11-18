@@ -30,7 +30,6 @@ payload:
     - DOMAIN-SUFFIX,tiktok-row.net
     - DOMAIN-SUFFIX,jsdelivr.net
     - DOMAIN-SUFFIX,adtidy.org
-    -
 
 
 
