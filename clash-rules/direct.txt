@@ -52,6 +52,7 @@ payload:
     - DOMAIN-SUFFIX,thunderbird.net
     - DOMAIN-SUFFIX,azure.net
     - DOMAIN-SUFFIX,azure.com
+    - DOMAIN-SUFFIX,copilot.com
 
 
 
