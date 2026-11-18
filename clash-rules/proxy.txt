@@ -21,3 +21,4 @@ payload:
     - DOMAIN-SUFFIX,powerapps.com
     - DOMAIN-SUFFIX,example.com
     - DOMAIN-SUFFIX,adtidy.org
+    - DOMAIN-SUFFIX,msauth.net
