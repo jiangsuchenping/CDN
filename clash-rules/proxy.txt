@@ -9,8 +9,10 @@ payload:
     - GEOSITE,meta
     - GEOSITE,chatgpt
     - GEOSITE,google
+    - GEOSITE,wikipedia
 
 
   # 
     - DOMAIN-SUFFIX,linux.do
     - DOMAIN-SUFFIX,ldstatic.com 
+    
