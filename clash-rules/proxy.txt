@@ -27,3 +27,4 @@ payload:
 
 
     - DOMAIN-SUFFIX,trouter.skype.com
+    - DOMAIN-SUFFIX,teams.microsoft.com
