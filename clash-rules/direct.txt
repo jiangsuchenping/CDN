@@ -7,6 +7,7 @@ payload:
     - GEOSITE,win-update
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe
+    - PROCESS-PATH,C:\Windows\System32\svchost.exe
     - GEOSITE,cn
     - GEOIP,LAN,no-resolve
     - GEOIP,CN,no-resolve
