@@ -31,7 +31,7 @@ payload:
     - DOMAIN-SUFFIX,jsdelivr.net
     - DOMAIN-SUFFIX,adtidy.org
     - DOMAIN-REGEX,^gvt[0-9].com$
-    - DOMAIN-REGEX,^clients[0-9].google.com$
+    - DOMAIN-REGEX,^clients[0-9]\.google\.com$
 
 
 
