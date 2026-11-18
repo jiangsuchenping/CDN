@@ -11,8 +11,6 @@ payload:
   # 微软
     - GEOSITE,OneDrive
     - GEOSITE,win-update
-    - GEOSITE,apple-cn
-    - GEOSITE,microsoft-cn
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe
    
@@ -31,7 +29,6 @@ payload:
     - DOMAIN-SUFFIX,data.microsoft.com
     - DOMAIN-SUFFIX,bing.com
     - DOMAIN-SUFFIX,live.com
-    - DOMAIN-SUFFIX,microsoft.com
     - DOMAIN-SUFFIX,microsoftonline.com
     - DOMAIN-SUFFIX,bing.net
 
