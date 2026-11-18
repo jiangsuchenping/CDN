@@ -53,6 +53,7 @@ payload:
     - DOMAIN-SUFFIX,thunderbird.net
     - DOMAIN-SUFFIX,azure.net
     - DOMAIN-SUFFIX,azure.com
+    - DOMAIN-SUFFIX,msn.com
  
 
     - DOMAIN-SUFFIX,edge.microsoft.com
