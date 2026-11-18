@@ -20,3 +20,4 @@ payload:
     - DOMAIN-SUFFIX,skype.com
     - DOMAIN-SUFFIX,powerapps.com
     - DOMAIN-SUFFIX,example.com
+    - DOMAIN-SUFFIX,adtidy.org
