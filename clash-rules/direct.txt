@@ -50,7 +50,9 @@ payload:
     - DOMAIN-SUFFIX,microsoftonline.com
     - DOMAIN-SUFFIX,cdn-apple.com
     - DOMAIN-SUFFIX,thunderbird.net
-    
+    - DOMAIN-SUFFIX,azure.net
+    - DOMAIN-SUFFIX,azure.com
+
 
 
     - DOMAIN-SUFFIX,edge.microsoft.com
