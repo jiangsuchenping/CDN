@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.20",
+  "released": "2026-11-18T04:00:38+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "「失焦后保持窗口」开关扩展到启动后收起：勾选后点击图标启动软件窗口不再自动收起；Esc、热键与托盘的手动隐藏保持原样；纯前端一处条件改动，默认关闭不变"
+  ],
+  "file": "QuickStart-0.2.20-win64.qsp",
+  "size": 5802496,
+  "sha256": "63017721ef6a602f2f5f376225d3b4fffb0ca8554c13ea156bdfc8249b27a828"
+}
