@@ -22,8 +22,11 @@ payload:
     - DOMAIN-SUFFIX,lencr.org
     - DOMAIN-SUFFIX,googleapis.com
     - DOMAIN-SUFFIX,office.com
+    - DOMAIN-SUFFIX,office.net
     - DOMAIN-SUFFIX,office365.com
+    - DOMAIN-SUFFIX,office365.net
     - DOMAIN-SUFFIX,sharepoint.com
+    - DOMAIN-SUFFIX,sharepoint.net
     - DOMAIN-SUFFIX,asp.net
     - DOMAIN-SUFFIX,edge.microsoft.com
     - DOMAIN-SUFFIX,data.microsoft.com
@@ -31,6 +34,8 @@ payload:
     - DOMAIN-SUFFIX,live.com
     - DOMAIN-SUFFIX,microsoftonline.com
     - DOMAIN-SUFFIX,bing.net
+    - DOMAIN-SUFFIX,edge.skype.com
+
 
 
   # 直连域名，如有无法访问，则移除并在proxy.txt单独指定，direct2.txt中再使用域名兜底
