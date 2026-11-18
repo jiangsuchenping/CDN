@@ -1,12 +1,15 @@
 payload:
   # 确定 必须 直连 宽松 
-  # private
+  # 
     - GEOSITE,private 
     - GEOIP,private,no-resolve
     - GEOSITE,OneDrive
     - GEOSITE,win-update
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe
+    - GEOSITE,cn
+    - GEOIP,LAN,no-resolve
+    - GEOIP,CN,no-resolve
 
   # 直连域名，如有无法访问，则移除并在proxy.txt单独指定，direct2.txt中再使用域名兜底
     - DOMAIN-SUFFIX,io
@@ -24,7 +27,7 @@ payload:
   # 
     - DOMAIN-SUFFIX,shinsoft.net
     - DOMAIN-SUFFIX,e-medicine.cn 
-    
+
     - DOMAIN-SUFFIX,gstatic.com
     - DOMAIN-SUFFIX,cloudflare.com
     - DOMAIN-SUFFIX,byteintlapi.com
