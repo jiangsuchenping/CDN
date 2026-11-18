@@ -12,6 +12,7 @@ payload:
     - GEOSITE,OneDrive
     - GEOSITE,microsoft
     - GEOSITE,win-update
+    - GEOSITE,apple-cn
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe
     - DOMAIN-SUFFIX,microsoft.com

@@ -1,0 +1,14 @@
+payload: 
+  # 兜底
+  - GEOIP,JP
+  - GEOIP,US
+  - GEOIP,UK
+  - GEOIP,AU
+  - GEOSITE,geolocation-!cn
+  - GEOSITE,!cn
+
+
+
+
+       
+ 
