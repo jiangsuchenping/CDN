@@ -55,6 +55,7 @@ payload:
     - DOMAIN-SUFFIX,azure.com
     - DOMAIN-SUFFIX,msn.com
     - DOMAIN-SUFFIX,azurefd.net
+    - DOMAIN-SUFFIX,powerapps.com
  
 
     - DOMAIN-SUFFIX,edge.microsoft.com
