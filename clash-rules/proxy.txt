@@ -1,4 +1,5 @@
 payload: 
+  # 确定需要代理
   # 技术学习需要
     - GEOSITE,github   
     - GEOSITE,tweeter

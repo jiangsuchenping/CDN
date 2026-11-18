@@ -1,12 +1,9 @@
 payload:
+  # 兜底 直连 
   # private
     - GEOSITE,private 
     - GEOIP,private,no-resolve
-  
-  # 鑫磊
-    - DOMAIN-SUFFIX,shinsoft.net
-    - DOMAIN-SUFFIX,e-medicine.cn
-  
+    
   # 微软
     - GEOSITE,OneDrive
     - GEOSITE,microsoft
@@ -23,13 +20,7 @@ payload:
     - DOMAIN-SUFFIX,hotmail.com
     - DOMAIN-SUFFIX,edge.microsoft.com
     - DOMAIN-SUFFIX,substrate.office.com
-
-
-    - DOMAIN-SUFFIX,gstatic.com
-    - DOMAIN-SUFFIX,cloudflare.com
-    - DOMAIN-SUFFIX,byteintlapi.com
-    - DOMAIN-SUFFIX,adblockplus.org
-    - DOMAIN-SUFFIX,rumt-zh.com
+ 
 
   # 直连域名
     - DOMAIN-SUFFIX,io
@@ -37,6 +28,9 @@ payload:
     - DOMAIN-SUFFIX,google
     - DOMAIN-SUFFIX,microsoft
     - DOMAIN-SUFFIX,sh
+    - DOMAIN-SUFFIX,blog
+
+
 
   # 局域网或国内兜底
     - GEOSITE,cn
