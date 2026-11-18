@@ -23,3 +23,7 @@ payload:
     - DOMAIN-SUFFIX,adtidy.org
     - DOMAIN-SUFFIX,msauth.net
     - DOMAIN-SUFFIX,azureedge.net
+
+
+
+    - DOMAIN-SUFFIX,trouter.skype.com
