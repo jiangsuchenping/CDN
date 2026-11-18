@@ -31,6 +31,7 @@ payload:
     - DOMAIN-SUFFIX,jsdelivr.net
     - DOMAIN-SUFFIX,adtidy.org
     - DOMAIN-SUFFIX,gvt2.com
+    - DOMAIN-SUFFIX,gvt3.com
 
 
 
