@@ -17,4 +17,6 @@ payload:
     - DOMAIN-SUFFIX,ldstatic.com 
     - DOMAIN-SUFFIX,copilot.com
     - DOMAIN-SUFFIX,wikipedia.org
-    
+    - DOMAIN-SUFFIX,skype.com
+    - DOMAIN-SUFFIX,powerapps.com
+    - DOMAIN-SUFFIX,example.com
