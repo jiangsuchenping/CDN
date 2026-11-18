@@ -12,6 +12,7 @@ payload:
     - GEOSITE,OneDrive
     - GEOSITE,win-update
     - GEOSITE,apple-cn
+    - GEOSITE,microsoft-cn
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe
    
@@ -31,6 +32,8 @@ payload:
     - DOMAIN-SUFFIX,bing.com
     - DOMAIN-SUFFIX,live.com
     - DOMAIN-SUFFIX,microsoft.com
+    - DOMAIN-SUFFIX,microsoftonline.com
+    - DOMAIN-SUFFIX,bing.net
 
 
   # 直连域名，如有无法访问，则移除并在proxy.txt单独指定，direct2.txt中再使用域名兜底
