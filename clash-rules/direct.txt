@@ -58,5 +58,6 @@ payload:
  
 
     - DOMAIN-SUFFIX,edge.microsoft.com
-    - DOMAIN-SUFFIX,data.microsoft.com        
+    - DOMAIN-SUFFIX,data.microsoft.com 
+    - DOMAIN-SUFFIX,wdcp.microsoft.com
     - DOMAIN-SUFFIX,edge.skype.com
