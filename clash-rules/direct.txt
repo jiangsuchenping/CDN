@@ -57,8 +57,7 @@ payload:
     - DOMAIN-SUFFIX,msn.com
     - DOMAIN-SUFFIX,azurefd.net
     - DOMAIN-SUFFIX,cookielaw.org
-
- 
+    - DOMAIN-SUFFIX,q4inc.com 
 
     - DOMAIN-SUFFIX,edge.microsoft.com
     - DOMAIN-SUFFIX,data.microsoft.com 
