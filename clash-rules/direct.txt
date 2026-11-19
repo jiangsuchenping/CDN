@@ -7,64 +7,65 @@ payload:
     - GEOSITE,win-update
     - PROCESS-NAME,OneDrive
     - PROCESS-NAME,OneDrive.exe
-    - PROCESS-PATH,C:\Windows\System32\svchost.exe
-    - PROCESS-PATH,C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe
+    #- PROCESS-PATH,C:\Windows\System32\svchost.exe
+    #- PROCESS-PATH,C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe
     - GEOSITE,cn
     - GEOIP,LAN,no-resolve
     - GEOIP,CN,no-resolve
 
   # 直连域名，如有无法访问，则移除并在proxy.txt单独指定，direct2.txt中再使用域名兜底
-    - DOMAIN-SUFFIX,io
-    - DOMAIN-SUFFIX,dev
-    - DOMAIN-SUFFIX,google
-    - DOMAIN-SUFFIX,microsoft
-    - DOMAIN-SUFFIX,sh
-    - DOMAIN-SUFFIX,blog
-    - DOMAIN-SUFFIX,network
-    - DOMAIN-SUFFIX,ai
-    - DOMAIN-SUFFIX,app
-    - DOMAIN-SUFFIX,apple
-    - DOMAIN-SUFFIX,shop
+    # - DOMAIN-SUFFIX,io
+    # - DOMAIN-SUFFIX,dev
+    # - DOMAIN-SUFFIX,google
+    # - DOMAIN-SUFFIX,microsoft
+    # - DOMAIN-SUFFIX,sh
+    # - DOMAIN-SUFFIX,blog
+    # - DOMAIN-SUFFIX,network
+    # - DOMAIN-SUFFIX,ai
+    # - DOMAIN-SUFFIX,app
+    # - DOMAIN-SUFFIX,apple
+    # - DOMAIN-SUFFIX,shop
   
   # 
     - DOMAIN-SUFFIX,shinsoft.net
     - DOMAIN-SUFFIX,e-medicine.cn 
+  #
+    # - DOMAIN-SUFFIX,gstatic.com
+    # - DOMAIN-SUFFIX,cloudflare.com
+    # - DOMAIN-SUFFIX,cloudflare.net
+    # - DOMAIN-SUFFIX,cloudflareinsights.com
+    # - DOMAIN-SUFFIX,byteintlapi.com
+    # - DOMAIN-SUFFIX,adblockplus.org
+    # - DOMAIN-SUFFIX,rumt-zh.com
+    # - DOMAIN-SUFFIX,lencr.org
+    # - DOMAIN-SUFFIX,googleapis.com
+    # - DOMAIN-SUFFIX,office.com
+    # - DOMAIN-SUFFIX,office.net
+    # - DOMAIN-SUFFIX,office365.com
+    # - DOMAIN-SUFFIX,office365.net
+    # - DOMAIN-SUFFIX,sharepoint.com
+    # - DOMAIN-SUFFIX,sharepoint.net
+    # - DOMAIN-SUFFIX,asp.net
+    # - DOMAIN-SUFFIX,bing.com
+    # - DOMAIN-SUFFIX,live.com
+    # - DOMAIN-SUFFIX,bing.net
+    # - DOMAIN-SUFFIX,microsoftonline.com
+    # - DOMAIN-SUFFIX,cdn-apple.com
+    # - DOMAIN-SUFFIX,thunderbird.net
+    # - DOMAIN-SUFFIX,azure.net
+    # - DOMAIN-SUFFIX,azure.com
+    # - DOMAIN-SUFFIX,msn.com
+    # - DOMAIN-SUFFIX,azurefd.net
+    # - DOMAIN-SUFFIX,cookielaw.org
+    # - DOMAIN-SUFFIX,q4inc.com
+    # - DOMAIN-SUFFIX,q4app.com
+    # - DOMAIN-SUFFIX,cloudfront.net
+    # - DOMAIN-SUFFIX,akamaized.net
+    # - DOMAIN-SUFFIX,tiktok-row.net
 
-    - DOMAIN-SUFFIX,gstatic.com
-    - DOMAIN-SUFFIX,cloudflare.com
-    - DOMAIN-SUFFIX,cloudflare.net
-    - DOMAIN-SUFFIX,cloudflareinsights.com
-    - DOMAIN-SUFFIX,byteintlapi.com
-    - DOMAIN-SUFFIX,adblockplus.org
-    - DOMAIN-SUFFIX,rumt-zh.com
-    - DOMAIN-SUFFIX,lencr.org
-    - DOMAIN-SUFFIX,googleapis.com
-    - DOMAIN-SUFFIX,office.com
-    - DOMAIN-SUFFIX,office.net
-    - DOMAIN-SUFFIX,office365.com
-    - DOMAIN-SUFFIX,office365.net
-    - DOMAIN-SUFFIX,sharepoint.com
-    - DOMAIN-SUFFIX,sharepoint.net
-    - DOMAIN-SUFFIX,asp.net
-    - DOMAIN-SUFFIX,bing.com
-    - DOMAIN-SUFFIX,live.com
-    - DOMAIN-SUFFIX,bing.net
-    - DOMAIN-SUFFIX,microsoftonline.com
-    - DOMAIN-SUFFIX,cdn-apple.com
-    - DOMAIN-SUFFIX,thunderbird.net
-    - DOMAIN-SUFFIX,azure.net
-    - DOMAIN-SUFFIX,azure.com
-    - DOMAIN-SUFFIX,msn.com
-    - DOMAIN-SUFFIX,azurefd.net
-    - DOMAIN-SUFFIX,cookielaw.org
-    - DOMAIN-SUFFIX,q4inc.com
-    - DOMAIN-SUFFIX,q4app.com
-    - DOMAIN-SUFFIX,cloudfront.net
-    - DOMAIN-SUFFIX,akamaized.net
-    - DOMAIN-SUFFIX,tiktok-row.net
-
-    - DOMAIN-SUFFIX,edge.microsoft.com
-    - DOMAIN-SUFFIX,data.microsoft.com 
-    - DOMAIN-SUFFIX,wdcp.microsoft.com
-    - DOMAIN-SUFFIX,smartscreen.microsoft.com
-    - DOMAIN-SUFFIX,edge.skype.com
+    # - DOMAIN-SUFFIX,edge.microsoft.com
+    # - DOMAIN-SUFFIX,data.microsoft.com 
+    # - DOMAIN-SUFFIX,wdcp.microsoft.com
+    # - DOMAIN-SUFFIX,smartscreen.microsoft.com
+    # - DOMAIN-SUFFIX,edge.skype.com
+ 
