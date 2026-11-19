@@ -32,6 +32,8 @@ payload:
 
     - DOMAIN-SUFFIX,gstatic.com
     - DOMAIN-SUFFIX,cloudflare.com
+    - DOMAIN-SUFFIX,cloudflare.net
+    - DOMAIN-SUFFIX,cloudflareinsights.com
     - DOMAIN-SUFFIX,byteintlapi.com
     - DOMAIN-SUFFIX,adblockplus.org
     - DOMAIN-SUFFIX,rumt-zh.com
