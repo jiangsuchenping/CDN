@@ -62,6 +62,8 @@ payload:
     - DOMAIN-SUFFIX,cloudfront.net
     - DOMAIN-SUFFIX,akamaized.net
     - DOMAIN-SUFFIX,tiktok-row.net
+    - DOMAIN-SUFFIX,my-place.us
+    
 
     - DOMAIN-SUFFIX,edge.microsoft.com
     - DOMAIN-SUFFIX,data.microsoft.com 
