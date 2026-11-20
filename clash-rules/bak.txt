@@ -40,10 +40,11 @@
 
 clash通用规则
 rules:
-  - GEOIP,cn,DIRECT
+  - GEOSITE,private,DIRECT
+  - GEOIP,private,DIRECT
   - GEOSITE,cn,DIRECT
-  - GEOIP,!cn,AllProxies
-  - GEOSITE,!cn,AllProxies
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
   - MATCH,AllProxies
  
   
