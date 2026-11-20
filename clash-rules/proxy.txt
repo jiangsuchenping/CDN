@@ -17,6 +17,8 @@ payload:
     - DOMAIN-SUFFIX,ldstatic.com 
     - DOMAIN-SUFFIX,copilot.com
     - DOMAIN-SUFFIX,skype.com
+    - DOMAIN-SUFFIX,dabai.in
+    - DOMAIN-SUFFIX,qjty1.buzz
    
 
  
