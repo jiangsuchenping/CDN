@@ -64,6 +64,7 @@ payload:
     - DOMAIN-SUFFIX,tiktok-row.net
     - DOMAIN-SUFFIX,my-place.us
     - DOMAIN-SUFFIX,eyeo.com
+    - DOMAIN-SUFFIX,agnes-ai.com
 
 
     - DOMAIN-SUFFIX,edge.microsoft.com
