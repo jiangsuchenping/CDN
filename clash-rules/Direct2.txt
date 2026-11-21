@@ -17,6 +17,7 @@ payload:
     - DOMAIN-SUFFIX,ai
     - DOMAIN-SUFFIX,app
 
+    - DOMAIN-KEYWORD,cdn
 
 
   # 局域网或国内兜底
