@@ -73,4 +73,5 @@ payload:
     - DOMAIN-SUFFIX,smartscreen.microsoft.com
     - DOMAIN-SUFFIX,graph.microsoft.com
     - DOMAIN-SUFFIX,edge.skype.com
+    - DOMAIN-SUFFIX,rewardsplatform.microsoft.com
  
