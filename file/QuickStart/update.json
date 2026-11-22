@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.21",
+  "released": "2026-11-22T03:14:14+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "优化应用列表卡顿：快捷方式解析结果缓存复用并新增分阶段耗时与超阈值告警日志，方便定位后续卡顿；不改变应用列表内容与偏好格式。"
+  ],
+  "file": "QuickStart-0.2.21-win64.qsp",
+  "size": 5813760,
+  "sha256": "b980cf19b5d2ccd7b7dbc7365b6c246377501ef1902e12ce643cb95062ccff2d"
+}
