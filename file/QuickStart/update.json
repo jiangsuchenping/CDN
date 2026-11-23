@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.23",
+  "released": "2026-11-23T07:17:43+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "完善活跃统计跨机器识别：状态文件拷到其他机器会生成独立ID避免漏算；老用户升级沿用原ID避免重复统计；本机校验只存本地不上报，隐私口径不变。"
+  ],
+  "file": "QuickStart-0.2.23-win64.qsp",
+  "size": 5860352,
+  "sha256": "178c6d0172f6da147c32c06bde18af5c664e16971a7c8f75ddeaa16d0b308e38"
+}
