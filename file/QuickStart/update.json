@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.24",
+  "released": "2026-11-23T09:02:22+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "设置面板新增反馈建议入口，可在浏览器打开作者公众号文章留言；不改变应用列表、排序、偏好与升级地址。"
+  ],
+  "file": "QuickStart-0.2.24-win64.qsp",
+  "size": 5860352,
+  "sha256": "d2d67afad16c451b246511c33b842a227a835d4059bd32b962db9bbc58aac769"
+}
