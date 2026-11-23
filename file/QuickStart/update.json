@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.22",
+  "released": "2026-11-23T06:32:04+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "新增匿名活跃用户统计：每天最多一次心跳，仅上报随机安装ID、日期与版本号；可随时关闭，统计服务不可用不影响启动器；接口地址从CDN配置读取，将来更换无需发版。"
+  ],
+  "file": "QuickStart-0.2.22-win64.qsp",
+  "size": 5856768,
+  "sha256": "f5c929e3c5f68f06d66881860fba47a8340a774cbca9c6258c279bd2babe051d"
+}
