@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.25",
+  "released": "2026-11-23T10:10:00+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "修复部分 Windows 自带应用从网格点击时提示启动失败的问题，改用系统支持的方式拉起；普通程序启动方式、应用列表、排序与升级地址均不变。"
+  ],
+  "file": "QuickStart-0.2.25-win64.qsp",
+  "size": 5871104,
+  "sha256": "fa7240490c5f6b0b770ecae58a7d97921994c358d60e00fc431582f137a917b8"
+}
