@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "endpoint": "http://1638988.my-place.us/report.php",
+  "auth_mode": "challenge",
+  "api_key": "qs-stats-2026-hpn"
+}
