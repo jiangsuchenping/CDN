@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.26",
+  "released": "2026-11-24T05:43:46+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "主屏默认只显示真正用过的软件，零使用条目不再占位但仍可搜索；搜索支持简拼、别名与版本号模糊匹配；隐藏项可搜索找回并支持一键全部恢复；排序、偏好、数据库与升级地址均不变。"
+  ],
+  "file": "QuickStart-0.2.26-win64.qsp",
+  "size": 5886464,
+  "sha256": "897a6541c8dd3f546bea51a7914771ba39f5a0a3d1a57da8ba173de11c270fd7"
+}
