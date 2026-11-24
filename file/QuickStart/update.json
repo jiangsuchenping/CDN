@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.28",
+  "released": "2026-11-24T09:29:32+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "隐私开关与数据删除增加二次确认：开启/关闭「按网络位置个性化排序」均先弹窗确认；开启只按网络类型学习、不采集 SSID/IP/MAC；关闭将删除该维历史数据且不可撤销；取消/遮罩/Esc 不改偏好不删数据"
+  ],
+  "file": "QuickStart-0.2.28-win64.qsp",
+  "size": 5896192,
+  "sha256": "c73f5a3ad12440f5dc249f9259a8506fef7827be29798520dc35bca947d3ef1f"
+}
