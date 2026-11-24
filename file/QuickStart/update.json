@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.27",
+  "released": "2026-11-24T08:24:55+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "新增隐私开关「按网络位置个性化排序」：默认关闭，开启后按有线/WiFi 学习不同工作环境偏好；只记录网络类型，不采集 SSID、IP、MAC；关闭即清除历史数据"
+  ],
+  "file": "QuickStart-0.2.27-win64.qsp",
+  "size": 5895680,
+  "sha256": "1181ee1b51e0acb26d673546722b28c3a36f5496e1bfca60176f184aa117a583"
+}
