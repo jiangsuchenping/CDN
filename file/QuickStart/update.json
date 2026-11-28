@@ -1,0 +1,14 @@
+{
+  "app": "quickstart",
+  "channel": "stable",
+  "version": "0.2.29",
+  "released": "2026-11-28T11:45:00+00:00",
+  "mandatory": false,
+  "min_supported": "0.1.0",
+  "notes": [
+    "任务管理器进程显示名统一为 QuickStart，版本同步至 0.2.29"
+  ],
+  "file": "QuickStart-0.2.29-win64.qsp",
+  "size": 5896192,
+  "sha256": "0c2f6556c28c029fe4e09230b51f83aa8ca3d589b5ba7dc14e08b28d1241e829"
+}
